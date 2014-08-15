@@ -1,0 +1,106 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 8/14/14 9:17 AM
+Description: Exception getting block type in world
+
+java.lang.NullPointerException: Exception getting block type in world
+	at net.minecraft.world.chunk.storage.ExtendedBlockStorage.func_150818_a(ExtendedBlockStorage.java:96)
+	at net.minecraft.world.chunk.Chunk.func_150807_a(Chunk.java:665)
+	at net.minecraft.world.World.setBlock(World.java:517)
+	at net.minecraft.world.gen.feature.WorldGenMinable.generate(WorldGenMinable.java:79)
+	at tutorial.DMAexample.MyOreGenerator.addOreSpawn(MyOreGenerator.java:35)
+	at tutorial.DMAexample.MyOreGenerator.generateSurface(MyOreGenerator.java:25)
+	at tutorial.DMAexample.MyOreGenerator.generate(MyOreGenerator.java:18)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.populate(ChunkProviderServer.java:256)
+	at net.minecraft.world.chunk.Chunk.populateChunk(Chunk.java:1162)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:150)
+	at net.minecraft.world.gen.ChunkProviderServer.provideChunk(ChunkProviderServer.java:163)
+	at net.minecraft.world.World.getChunkFromChunkCoords(World.java:487)
+	at net.minecraft.world.World.getBlock(World.java:392)
+	at net.minecraft.world.World.isAirBlock(World.java:415)
+	at net.minecraft.world.World.getTopBlock(World.java:376)
+	at net.minecraft.world.WorldProvider.canCoordinateBeSpawn(WorldProvider.java:97)
+	at net.minecraft.world.WorldServer.createSpawnPosition(WorldServer.java:806)
+	at net.minecraft.world.WorldServer.initialize(WorldServer.java:770)
+	at net.minecraft.world.World.<init>(World.java:301)
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:103)
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:63)
+	at net.minecraft.server.integrated.IntegratedServer.startServer(IntegratedServer.java:96)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:739)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.world.chunk.storage.ExtendedBlockStorage.func_150818_a(ExtendedBlockStorage.java:96)
+	at net.minecraft.world.chunk.Chunk.func_150807_a(Chunk.java:665)
+	at net.minecraft.world.World.setBlock(World.java:517)
+	at net.minecraft.world.gen.feature.WorldGenMinable.generate(WorldGenMinable.java:79)
+	at tutorial.DMAexample.MyOreGenerator.addOreSpawn(MyOreGenerator.java:35)
+	at tutorial.DMAexample.MyOreGenerator.generateSurface(MyOreGenerator.java:25)
+	at tutorial.DMAexample.MyOreGenerator.generate(MyOreGenerator.java:18)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.populate(ChunkProviderServer.java:256)
+	at net.minecraft.world.chunk.Chunk.populateChunk(Chunk.java:1162)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:150)
+	at net.minecraft.world.gen.ChunkProviderServer.provideChunk(ChunkProviderServer.java:163)
+	at net.minecraft.world.World.getChunkFromChunkCoords(World.java:487)
+
+-- Requested block coordinates --
+Details:
+	Found chunk: true
+	Location: World: (118,64,-88), Chunk: (at 6,4,8 in 7,-6; contains blocks 112,0,-96 to 127,255,-81), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+Stacktrace:
+	at net.minecraft.world.World.getBlock(World.java:392)
+	at net.minecraft.world.World.isAirBlock(World.java:415)
+	at net.minecraft.world.World.getTopBlock(World.java:376)
+	at net.minecraft.world.WorldProvider.canCoordinateBeSpawn(WorldProvider.java:97)
+	at net.minecraft.world.WorldServer.createSpawnPosition(WorldServer.java:806)
+	at net.minecraft.world.WorldServer.initialize(WorldServer.java:770)
+
+-- Affected level --
+Details:
+	Level name: New World
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 13 Drop: 0
+	Level seed: 6901925513367873195
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.world.World.<init>(World.java:301)
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:103)
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:63)
+	at net.minecraft.server.integrated.IntegratedServer.startServer(IntegratedServer.java:96)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:739)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Mac OS X (x86_64) version 10.9.3
+	Java Version: 1.6.0_65, Apple Inc.
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Apple Inc.
+	Memory: 945337976 bytes (901 MB) / 1065025536 bytes (1015 MB) up to 1065025536 bytes (1015 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP v9.01-pre FML v7.2.137.1049 Minecraft Forge 10.12.0.1049 4 mods loaded, 4 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	FML{7.2.137.1049} [Forge Mod Loader] (forgeSrc-1.7.2-10.12.0.1049.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	Forge{10.12.0.1049} [Minecraft Forge] (forgeSrc-1.7.2-10.12.0.1049.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	yourmodsname{1.0} [yourmodsname] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 8; []
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

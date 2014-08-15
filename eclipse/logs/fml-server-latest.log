@@ -1,0 +1,1203 @@
+[13:42:34] [main/INFO] [FML/]: Forge Mod Loader version 7.2.137.1049 for Minecraft 1.7.2 loading
+[13:42:34] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.6.0_65, running on Mac OS X:x86_64:10.9.3, installed at /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+[13:42:34] [main/DEBUG] [FML/]: Java classpath at launch is /Users/teen/Desktop/Louis_Modding/bin:/Users/teen/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.0.1049/forgeSrc-1.7.2-10.12.0.1049.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.9/116f2aad5b0c68353ebed66cd463517db6522f7e/launchwrapper-1.9.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/4.1/dd6ba5c392d4102458494e29f54f70ac534ec2a2/asm-debug-all-4.1.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.2/6ba65d12cd09d441083262d6f73d2257fec7c663/scala-library-2.10.2.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.10.2/64c8b1380cc53d6850823d6e4e7ae984aa44ef9c/scala-compiler-2.10.2.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/java3d/vecmath/1.3.1/a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d/vecmath-1.3.1.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/42ccaf4761f0dfdfa805c9e340d99a755907e2dd/trove4j-3.0.3.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/lzma/lzma/0.0.1/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/codecjorbis/20101023/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/codecwav/20101023/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/libraryjavasound/20101123/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/librarylwjglopenal/20100824/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/soundsystem/20120107/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9e50bd52ffe257a0e2cd8d971688d6ce7d174325/netty-all-4.0.10.Final.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.3/4fb033c2d6eccced08752d8f33e8c3a0a45deb2d/authlib-1.3.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/1dd66e68cccd907880229f9e2de1314bd13ff785/log4j-api-2.0-beta9.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/678861ba1b2e1fccb594bb0ca03114bb05da9695/log4j-core-2.0-beta9.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1-nightly-20131017/148d2981251ad796e50922dabfb9354ec26741dd/lwjgl-2.9.1-nightly-20131017.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1-nightly-20131017/b4570ef98d017fa8f515a202e727dd12f6ef52f3/lwjgl_util-2.9.1-nightly-20131017.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1-nightly-20131017/54241f3f8dac9617ca1ff335ffd3939f849c5017/lwjgl-platform-2.9.1-nightly-20131017-natives-osx.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar:/Users/teen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.2/444ff8e89a81697997ed8a98a4642ba283130249/scala-reflect-2.10.2.jar:/Users/teen/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.0.1049/start
+[13:42:34] [main/DEBUG] [FML/]: Java library path at launch is /Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives:/Users/teen/Desktop/Louis_Modding/build/natives
+[13:42:34] [main/INFO] [FML/]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[13:42:34] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[13:42:34] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[13:42:34] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[13:42:34] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[13:42:34] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[13:42:34] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[13:42:34] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[13:42:34] [main/DEBUG] [FML/]: Discovering coremods
+[13:42:34] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:42:34] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[13:42:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:42:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:42:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:42:34] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[13:42:34] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[13:42:34] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[13:42:34] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[13:42:34] [main/DEBUG] [FML/]: Injection complete
+[13:42:34] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[13:42:34] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[13:42:34] [main/ERROR] [FML/]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[13:42:34] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[13:42:34] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[13:42:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:42:34] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[13:42:34] [main/DEBUG] [FML/]: Injection complete
+[13:42:34] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[13:42:34] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[13:42:34] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[13:42:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[13:42:34] [main/DEBUG] [FML/]: Loaded 29 rules from AccessTransformer config file fml_at.cfg
+
+[13:42:34] [main/DEBUG] [FML/]: Loaded 65 rules from AccessTransformer config file forge_at.cfg
+
+[13:42:34] [main/DEBUG] [FML/]: Validating minecraft
+[13:42:35] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[13:42:35] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[13:42:35] [main/TRACE] [FML/]: Add : air 0 net.minecraft.block.BlockAir@7619cc1b
+[13:42:35] [main/TRACE] [FML/]: Add : air 0 net.minecraft.block.BlockAir@7619cc1b
+[13:42:35] [main/TRACE] [FML/]: Add : stone 1 net.minecraft.block.BlockStone@5aaefcbb
+[13:42:35] [main/TRACE] [FML/]: Add : stone 1 net.minecraft.block.BlockStone@5aaefcbb
+[13:42:35] [main/TRACE] [FML/]: Add : grass 2 net.minecraft.block.BlockGrass@6ec135d6
+[13:42:35] [main/TRACE] [FML/]: Add : grass 2 net.minecraft.block.BlockGrass@6ec135d6
+[13:42:35] [main/TRACE] [FML/]: Add : dirt 3 net.minecraft.block.BlockDirt@419c4091
+[13:42:35] [main/TRACE] [FML/]: Add : dirt 3 net.minecraft.block.BlockDirt@419c4091
+[13:42:35] [main/TRACE] [FML/]: Add : cobblestone 4 net.minecraft.block.Block@7953113d
+[13:42:35] [main/TRACE] [FML/]: Add : cobblestone 4 net.minecraft.block.Block@7953113d
+[13:42:35] [main/TRACE] [FML/]: Add : planks 5 net.minecraft.block.BlockWood@3545fe3b
+[13:42:35] [main/TRACE] [FML/]: Add : planks 5 net.minecraft.block.BlockWood@3545fe3b
+[13:42:35] [main/TRACE] [FML/]: Add : sapling 6 net.minecraft.block.BlockSapling@1edfbb43
+[13:42:35] [main/TRACE] [FML/]: Add : sapling 6 net.minecraft.block.BlockSapling@1edfbb43
+[13:42:35] [main/TRACE] [FML/]: Add : bedrock 7 net.minecraft.block.Block@7f1e1bbf
+[13:42:35] [main/TRACE] [FML/]: Add : bedrock 7 net.minecraft.block.Block@7f1e1bbf
+[13:42:35] [main/TRACE] [FML/]: Add : flowing_water 8 net.minecraft.block.BlockDynamicLiquid@1975b7f9
+[13:42:35] [main/TRACE] [FML/]: Add : flowing_water 8 net.minecraft.block.BlockDynamicLiquid@1975b7f9
+[13:42:35] [main/TRACE] [FML/]: Add : water 9 net.minecraft.block.BlockStaticLiquid@7c83d8be
+[13:42:35] [main/TRACE] [FML/]: Add : water 9 net.minecraft.block.BlockStaticLiquid@7c83d8be
+[13:42:35] [main/TRACE] [FML/]: Add : flowing_lava 10 net.minecraft.block.BlockDynamicLiquid@340ae1cf
+[13:42:35] [main/TRACE] [FML/]: Add : flowing_lava 10 net.minecraft.block.BlockDynamicLiquid@340ae1cf
+[13:42:35] [main/TRACE] [FML/]: Add : lava 11 net.minecraft.block.BlockStaticLiquid@366ef7ba
+[13:42:35] [main/TRACE] [FML/]: Add : lava 11 net.minecraft.block.BlockStaticLiquid@366ef7ba
+[13:42:35] [main/TRACE] [FML/]: Add : sand 12 net.minecraft.block.BlockSand@303bc1a1
+[13:42:35] [main/TRACE] [FML/]: Add : sand 12 net.minecraft.block.BlockSand@303bc1a1
+[13:42:35] [main/TRACE] [FML/]: Add : gravel 13 net.minecraft.block.BlockGravel@77485542
+[13:42:35] [main/TRACE] [FML/]: Add : gravel 13 net.minecraft.block.BlockGravel@77485542
+[13:42:35] [main/TRACE] [FML/]: Add : gold_ore 14 net.minecraft.block.BlockOre@683c9314
+[13:42:35] [main/TRACE] [FML/]: Add : gold_ore 14 net.minecraft.block.BlockOre@683c9314
+[13:42:35] [main/TRACE] [FML/]: Add : iron_ore 15 net.minecraft.block.BlockOre@60dc3b82
+[13:42:35] [main/TRACE] [FML/]: Add : iron_ore 15 net.minecraft.block.BlockOre@60dc3b82
+[13:42:35] [main/TRACE] [FML/]: Add : coal_ore 16 net.minecraft.block.BlockOre@1ac7057c
+[13:42:35] [main/TRACE] [FML/]: Add : coal_ore 16 net.minecraft.block.BlockOre@1ac7057c
+[13:42:35] [main/TRACE] [FML/]: Add : log 17 net.minecraft.block.BlockOldLog@1a5e68a
+[13:42:35] [main/TRACE] [FML/]: Add : log 17 net.minecraft.block.BlockOldLog@1a5e68a
+[13:42:35] [main/TRACE] [FML/]: Add : leaves 18 net.minecraft.block.BlockOldLeaf@26a0e990
+[13:42:35] [main/TRACE] [FML/]: Add : leaves 18 net.minecraft.block.BlockOldLeaf@26a0e990
+[13:42:35] [main/TRACE] [FML/]: Add : sponge 19 net.minecraft.block.BlockSponge@6e72d873
+[13:42:35] [main/TRACE] [FML/]: Add : sponge 19 net.minecraft.block.BlockSponge@6e72d873
+[13:42:35] [main/TRACE] [FML/]: Add : glass 20 net.minecraft.block.BlockGlass@63e708b2
+[13:42:35] [main/TRACE] [FML/]: Add : glass 20 net.minecraft.block.BlockGlass@63e708b2
+[13:42:35] [main/TRACE] [FML/]: Add : lapis_ore 21 net.minecraft.block.BlockOre@54ec115b
+[13:42:35] [main/TRACE] [FML/]: Add : lapis_ore 21 net.minecraft.block.BlockOre@54ec115b
+[13:42:35] [main/TRACE] [FML/]: Add : lapis_block 22 net.minecraft.block.BlockCompressed@5ffbc355
+[13:42:35] [main/TRACE] [FML/]: Add : lapis_block 22 net.minecraft.block.BlockCompressed@5ffbc355
+[13:42:35] [main/TRACE] [FML/]: Add : dispenser 23 net.minecraft.block.BlockDispenser@1f248f2b
+[13:42:35] [main/TRACE] [FML/]: Add : dispenser 23 net.minecraft.block.BlockDispenser@1f248f2b
+[13:42:35] [main/TRACE] [FML/]: Add : sandstone 24 net.minecraft.block.BlockSandStone@5735b26
+[13:42:35] [main/TRACE] [FML/]: Add : sandstone 24 net.minecraft.block.BlockSandStone@5735b26
+[13:42:35] [main/TRACE] [FML/]: Add : noteblock 25 net.minecraft.block.BlockNote@47e9d9b1
+[13:42:35] [main/TRACE] [FML/]: Add : noteblock 25 net.minecraft.block.BlockNote@47e9d9b1
+[13:42:35] [main/TRACE] [FML/]: Add : bed 26 net.minecraft.block.BlockBed@48f3d27
+[13:42:35] [main/TRACE] [FML/]: Add : bed 26 net.minecraft.block.BlockBed@48f3d27
+[13:42:35] [main/TRACE] [FML/]: Add : golden_rail 27 net.minecraft.block.BlockRailPowered@4858cca9
+[13:42:35] [main/TRACE] [FML/]: Add : golden_rail 27 net.minecraft.block.BlockRailPowered@4858cca9
+[13:42:35] [main/TRACE] [FML/]: Add : detector_rail 28 net.minecraft.block.BlockRailDetector@60407166
+[13:42:35] [main/TRACE] [FML/]: Add : detector_rail 28 net.minecraft.block.BlockRailDetector@60407166
+[13:42:35] [main/TRACE] [FML/]: Add : sticky_piston 29 net.minecraft.block.BlockPistonBase@14cb754f
+[13:42:35] [main/TRACE] [FML/]: Add : sticky_piston 29 net.minecraft.block.BlockPistonBase@14cb754f
+[13:42:35] [main/TRACE] [FML/]: Add : web 30 net.minecraft.block.BlockWeb@5e76f2e8
+[13:42:35] [main/TRACE] [FML/]: Add : web 30 net.minecraft.block.BlockWeb@5e76f2e8
+[13:42:35] [main/TRACE] [FML/]: Add : tallgrass 31 net.minecraft.block.BlockTallGrass@53458dcb
+[13:42:35] [main/TRACE] [FML/]: Add : tallgrass 31 net.minecraft.block.BlockTallGrass@53458dcb
+[13:42:35] [main/TRACE] [FML/]: Add : deadbush 32 net.minecraft.block.BlockDeadBush@c423d4f
+[13:42:35] [main/TRACE] [FML/]: Add : deadbush 32 net.minecraft.block.BlockDeadBush@c423d4f
+[13:42:35] [main/TRACE] [FML/]: Add : piston 33 net.minecraft.block.BlockPistonBase@50c713d2
+[13:42:35] [main/TRACE] [FML/]: Add : piston 33 net.minecraft.block.BlockPistonBase@50c713d2
+[13:42:35] [main/TRACE] [FML/]: Add : piston_head 34 net.minecraft.block.BlockPistonExtension@3de6696c
+[13:42:35] [main/TRACE] [FML/]: Add : piston_head 34 net.minecraft.block.BlockPistonExtension@3de6696c
+[13:42:35] [main/TRACE] [FML/]: Add : wool 35 net.minecraft.block.BlockColored@521d8e9e
+[13:42:35] [main/TRACE] [FML/]: Add : wool 35 net.minecraft.block.BlockColored@521d8e9e
+[13:42:35] [main/TRACE] [FML/]: Add : piston_extension 36 net.minecraft.block.BlockPistonMoving@43f2f70a
+[13:42:35] [main/TRACE] [FML/]: Add : piston_extension 36 net.minecraft.block.BlockPistonMoving@43f2f70a
+[13:42:35] [main/TRACE] [FML/]: Add : yellow_flower 37 net.minecraft.block.BlockFlower@16ad339b
+[13:42:35] [main/TRACE] [FML/]: Add : yellow_flower 37 net.minecraft.block.BlockFlower@16ad339b
+[13:42:35] [main/TRACE] [FML/]: Add : red_flower 38 net.minecraft.block.BlockFlower@451710be
+[13:42:35] [main/TRACE] [FML/]: Add : red_flower 38 net.minecraft.block.BlockFlower@451710be
+[13:42:35] [main/TRACE] [FML/]: Add : brown_mushroom 39 net.minecraft.block.BlockMushroom@6c97d3f0
+[13:42:35] [main/TRACE] [FML/]: Add : brown_mushroom 39 net.minecraft.block.BlockMushroom@6c97d3f0
+[13:42:35] [main/TRACE] [FML/]: Add : red_mushroom 40 net.minecraft.block.BlockMushroom@59db9f45
+[13:42:35] [main/TRACE] [FML/]: Add : red_mushroom 40 net.minecraft.block.BlockMushroom@59db9f45
+[13:42:35] [main/TRACE] [FML/]: Add : gold_block 41 net.minecraft.block.BlockCompressed@61b59919
+[13:42:35] [main/TRACE] [FML/]: Add : gold_block 41 net.minecraft.block.BlockCompressed@61b59919
+[13:42:35] [main/TRACE] [FML/]: Add : iron_block 42 net.minecraft.block.BlockCompressed@59566a6c
+[13:42:35] [main/TRACE] [FML/]: Add : iron_block 42 net.minecraft.block.BlockCompressed@59566a6c
+[13:42:35] [main/TRACE] [FML/]: Add : double_stone_slab 43 net.minecraft.block.BlockStoneSlab@6239da8a
+[13:42:35] [main/TRACE] [FML/]: Add : double_stone_slab 43 net.minecraft.block.BlockStoneSlab@6239da8a
+[13:42:35] [main/TRACE] [FML/]: Add : stone_slab 44 net.minecraft.block.BlockStoneSlab@443acc67
+[13:42:35] [main/TRACE] [FML/]: Add : stone_slab 44 net.minecraft.block.BlockStoneSlab@443acc67
+[13:42:35] [main/TRACE] [FML/]: Add : brick_block 45 net.minecraft.block.Block@7041a12f
+[13:42:35] [main/TRACE] [FML/]: Add : brick_block 45 net.minecraft.block.Block@7041a12f
+[13:42:35] [main/TRACE] [FML/]: Add : tnt 46 net.minecraft.block.BlockTNT@75088a1b
+[13:42:35] [main/TRACE] [FML/]: Add : tnt 46 net.minecraft.block.BlockTNT@75088a1b
+[13:42:35] [main/TRACE] [FML/]: Add : bookshelf 47 net.minecraft.block.BlockBookshelf@22c28cb7
+[13:42:35] [main/TRACE] [FML/]: Add : bookshelf 47 net.minecraft.block.BlockBookshelf@22c28cb7
+[13:42:35] [main/TRACE] [FML/]: Add : mossy_cobblestone 48 net.minecraft.block.Block@12a45435
+[13:42:35] [main/TRACE] [FML/]: Add : mossy_cobblestone 48 net.minecraft.block.Block@12a45435
+[13:42:35] [main/TRACE] [FML/]: Add : obsidian 49 net.minecraft.block.BlockObsidian@55d7fc31
+[13:42:35] [main/TRACE] [FML/]: Add : obsidian 49 net.minecraft.block.BlockObsidian@55d7fc31
+[13:42:35] [main/TRACE] [FML/]: Add : torch 50 net.minecraft.block.BlockTorch@4969dd64
+[13:42:35] [main/TRACE] [FML/]: Add : torch 50 net.minecraft.block.BlockTorch@4969dd64
+[13:42:35] [main/TRACE] [FML/]: Add : fire 51 net.minecraft.block.BlockFire@c45aa2c
+[13:42:35] [main/TRACE] [FML/]: Add : fire 51 net.minecraft.block.BlockFire@c45aa2c
+[13:42:35] [main/TRACE] [FML/]: Add : mob_spawner 52 net.minecraft.block.BlockMobSpawner@50fba502
+[13:42:35] [main/TRACE] [FML/]: Add : mob_spawner 52 net.minecraft.block.BlockMobSpawner@50fba502
+[13:42:35] [main/TRACE] [FML/]: Add : oak_stairs 53 net.minecraft.block.BlockStairs@29cb2795
+[13:42:35] [main/TRACE] [FML/]: Add : oak_stairs 53 net.minecraft.block.BlockStairs@29cb2795
+[13:42:35] [main/TRACE] [FML/]: Add : chest 54 net.minecraft.block.BlockChest@303ec561
+[13:42:35] [main/TRACE] [FML/]: Add : chest 54 net.minecraft.block.BlockChest@303ec561
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_wire 55 net.minecraft.block.BlockRedstoneWire@59bdbfec
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_wire 55 net.minecraft.block.BlockRedstoneWire@59bdbfec
+[13:42:35] [main/TRACE] [FML/]: Add : diamond_ore 56 net.minecraft.block.BlockOre@34330fb9
+[13:42:35] [main/TRACE] [FML/]: Add : diamond_ore 56 net.minecraft.block.BlockOre@34330fb9
+[13:42:35] [main/TRACE] [FML/]: Add : diamond_block 57 net.minecraft.block.BlockCompressed@71257687
+[13:42:35] [main/TRACE] [FML/]: Add : diamond_block 57 net.minecraft.block.BlockCompressed@71257687
+[13:42:35] [main/TRACE] [FML/]: Add : crafting_table 58 net.minecraft.block.BlockWorkbench@4463a1ae
+[13:42:35] [main/TRACE] [FML/]: Add : crafting_table 58 net.minecraft.block.BlockWorkbench@4463a1ae
+[13:42:35] [main/TRACE] [FML/]: Add : wheat 59 net.minecraft.block.BlockCrops@3f508f31
+[13:42:35] [main/TRACE] [FML/]: Add : wheat 59 net.minecraft.block.BlockCrops@3f508f31
+[13:42:35] [main/TRACE] [FML/]: Add : farmland 60 net.minecraft.block.BlockFarmland@375c929a
+[13:42:35] [main/TRACE] [FML/]: Add : farmland 60 net.minecraft.block.BlockFarmland@375c929a
+[13:42:35] [main/TRACE] [FML/]: Add : furnace 61 net.minecraft.block.BlockFurnace@b09dc35
+[13:42:35] [main/TRACE] [FML/]: Add : furnace 61 net.minecraft.block.BlockFurnace@b09dc35
+[13:42:35] [main/TRACE] [FML/]: Add : lit_furnace 62 net.minecraft.block.BlockFurnace@3458213c
+[13:42:35] [main/TRACE] [FML/]: Add : lit_furnace 62 net.minecraft.block.BlockFurnace@3458213c
+[13:42:35] [main/TRACE] [FML/]: Add : standing_sign 63 net.minecraft.block.BlockSign@7ce1eae7
+[13:42:35] [main/TRACE] [FML/]: Add : standing_sign 63 net.minecraft.block.BlockSign@7ce1eae7
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_door 64 net.minecraft.block.BlockDoor@ed0f59e
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_door 64 net.minecraft.block.BlockDoor@ed0f59e
+[13:42:35] [main/TRACE] [FML/]: Add : ladder 65 net.minecraft.block.BlockLadder@534a55e5
+[13:42:35] [main/TRACE] [FML/]: Add : ladder 65 net.minecraft.block.BlockLadder@534a55e5
+[13:42:35] [main/TRACE] [FML/]: Add : rail 66 net.minecraft.block.BlockRail@115af049
+[13:42:35] [main/TRACE] [FML/]: Add : rail 66 net.minecraft.block.BlockRail@115af049
+[13:42:35] [main/TRACE] [FML/]: Add : stone_stairs 67 net.minecraft.block.BlockStairs@69555185
+[13:42:35] [main/TRACE] [FML/]: Add : stone_stairs 67 net.minecraft.block.BlockStairs@69555185
+[13:42:35] [main/TRACE] [FML/]: Add : wall_sign 68 net.minecraft.block.BlockSign@605b28c9
+[13:42:35] [main/TRACE] [FML/]: Add : wall_sign 68 net.minecraft.block.BlockSign@605b28c9
+[13:42:35] [main/TRACE] [FML/]: Add : lever 69 net.minecraft.block.BlockLever@3d2a416a
+[13:42:35] [main/TRACE] [FML/]: Add : lever 69 net.minecraft.block.BlockLever@3d2a416a
+[13:42:35] [main/TRACE] [FML/]: Add : stone_pressure_plate 70 net.minecraft.block.BlockPressurePlate@51e2a069
+[13:42:35] [main/TRACE] [FML/]: Add : stone_pressure_plate 70 net.minecraft.block.BlockPressurePlate@51e2a069
+[13:42:35] [main/TRACE] [FML/]: Add : iron_door 71 net.minecraft.block.BlockDoor@7591777e
+[13:42:35] [main/TRACE] [FML/]: Add : iron_door 71 net.minecraft.block.BlockDoor@7591777e
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_pressure_plate 72 net.minecraft.block.BlockPressurePlate@213c2d7f
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_pressure_plate 72 net.minecraft.block.BlockPressurePlate@213c2d7f
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_ore 73 net.minecraft.block.BlockRedstoneOre@5979b7b0
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_ore 73 net.minecraft.block.BlockRedstoneOre@5979b7b0
+[13:42:35] [main/TRACE] [FML/]: Add : lit_redstone_ore 74 net.minecraft.block.BlockRedstoneOre@460ab1b4
+[13:42:35] [main/TRACE] [FML/]: Add : lit_redstone_ore 74 net.minecraft.block.BlockRedstoneOre@460ab1b4
+[13:42:35] [main/TRACE] [FML/]: Add : unlit_redstone_torch 75 net.minecraft.block.BlockRedstoneTorch@4b0e18ba
+[13:42:35] [main/TRACE] [FML/]: Add : unlit_redstone_torch 75 net.minecraft.block.BlockRedstoneTorch@4b0e18ba
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_torch 76 net.minecraft.block.BlockRedstoneTorch@a7981d5
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_torch 76 net.minecraft.block.BlockRedstoneTorch@a7981d5
+[13:42:35] [main/TRACE] [FML/]: Add : stone_button 77 net.minecraft.block.BlockButtonStone@20dccfab
+[13:42:35] [main/TRACE] [FML/]: Add : stone_button 77 net.minecraft.block.BlockButtonStone@20dccfab
+[13:42:35] [main/TRACE] [FML/]: Add : snow_layer 78 net.minecraft.block.BlockSnow@62c4afc4
+[13:42:35] [main/TRACE] [FML/]: Add : snow_layer 78 net.minecraft.block.BlockSnow@62c4afc4
+[13:42:35] [main/TRACE] [FML/]: Add : ice 79 net.minecraft.block.BlockIce@4e8deb8a
+[13:42:35] [main/TRACE] [FML/]: Add : ice 79 net.minecraft.block.BlockIce@4e8deb8a
+[13:42:35] [main/TRACE] [FML/]: Add : snow 80 net.minecraft.block.BlockSnowBlock@4b8e899c
+[13:42:35] [main/TRACE] [FML/]: Add : snow 80 net.minecraft.block.BlockSnowBlock@4b8e899c
+[13:42:35] [main/TRACE] [FML/]: Add : cactus 81 net.minecraft.block.BlockCactus@67e2c841
+[13:42:35] [main/TRACE] [FML/]: Add : cactus 81 net.minecraft.block.BlockCactus@67e2c841
+[13:42:35] [main/TRACE] [FML/]: Add : clay 82 net.minecraft.block.BlockClay@42bd93cd
+[13:42:35] [main/TRACE] [FML/]: Add : clay 82 net.minecraft.block.BlockClay@42bd93cd
+[13:42:35] [main/TRACE] [FML/]: Add : reeds 83 net.minecraft.block.BlockReed@2bf8f8c8
+[13:42:35] [main/TRACE] [FML/]: Add : reeds 83 net.minecraft.block.BlockReed@2bf8f8c8
+[13:42:35] [main/TRACE] [FML/]: Add : jukebox 84 net.minecraft.block.BlockJukebox@23faa614
+[13:42:35] [main/TRACE] [FML/]: Add : jukebox 84 net.minecraft.block.BlockJukebox@23faa614
+[13:42:35] [main/TRACE] [FML/]: Add : fence 85 net.minecraft.block.BlockFence@3a87d472
+[13:42:35] [main/TRACE] [FML/]: Add : fence 85 net.minecraft.block.BlockFence@3a87d472
+[13:42:35] [main/TRACE] [FML/]: Add : pumpkin 86 net.minecraft.block.BlockPumpkin@919db9e
+[13:42:35] [main/TRACE] [FML/]: Add : pumpkin 86 net.minecraft.block.BlockPumpkin@919db9e
+[13:42:35] [main/TRACE] [FML/]: Add : netherrack 87 net.minecraft.block.BlockNetherrack@5b4bc4e6
+[13:42:35] [main/TRACE] [FML/]: Add : netherrack 87 net.minecraft.block.BlockNetherrack@5b4bc4e6
+[13:42:35] [main/TRACE] [FML/]: Add : soul_sand 88 net.minecraft.block.BlockSoulSand@10ea443f
+[13:42:35] [main/TRACE] [FML/]: Add : soul_sand 88 net.minecraft.block.BlockSoulSand@10ea443f
+[13:42:35] [main/TRACE] [FML/]: Add : glowstone 89 net.minecraft.block.BlockGlowstone@323f265b
+[13:42:35] [main/TRACE] [FML/]: Add : glowstone 89 net.minecraft.block.BlockGlowstone@323f265b
+[13:42:35] [main/TRACE] [FML/]: Add : portal 90 net.minecraft.block.BlockPortal@36511e0a
+[13:42:35] [main/TRACE] [FML/]: Add : portal 90 net.minecraft.block.BlockPortal@36511e0a
+[13:42:35] [main/TRACE] [FML/]: Add : lit_pumpkin 91 net.minecraft.block.BlockPumpkin@78b3e62
+[13:42:35] [main/TRACE] [FML/]: Add : lit_pumpkin 91 net.minecraft.block.BlockPumpkin@78b3e62
+[13:42:35] [main/TRACE] [FML/]: Add : cake 92 net.minecraft.block.BlockCake@50b2fb1e
+[13:42:35] [main/TRACE] [FML/]: Add : cake 92 net.minecraft.block.BlockCake@50b2fb1e
+[13:42:35] [main/TRACE] [FML/]: Add : unpowered_repeater 93 net.minecraft.block.BlockRedstoneRepeater@202264da
+[13:42:35] [main/TRACE] [FML/]: Add : unpowered_repeater 93 net.minecraft.block.BlockRedstoneRepeater@202264da
+[13:42:35] [main/TRACE] [FML/]: Add : powered_repeater 94 net.minecraft.block.BlockRedstoneRepeater@320b34b1
+[13:42:35] [main/TRACE] [FML/]: Add : powered_repeater 94 net.minecraft.block.BlockRedstoneRepeater@320b34b1
+[13:42:35] [main/TRACE] [FML/]: Add : stained_glass 95 net.minecraft.block.BlockStainedGlass@233dcd27
+[13:42:35] [main/TRACE] [FML/]: Add : stained_glass 95 net.minecraft.block.BlockStainedGlass@233dcd27
+[13:42:35] [main/TRACE] [FML/]: Add : trapdoor 96 net.minecraft.block.BlockTrapDoor@46bb05de
+[13:42:35] [main/TRACE] [FML/]: Add : trapdoor 96 net.minecraft.block.BlockTrapDoor@46bb05de
+[13:42:35] [main/TRACE] [FML/]: Add : monster_egg 97 net.minecraft.block.BlockSilverfish@2ecc5436
+[13:42:35] [main/TRACE] [FML/]: Add : monster_egg 97 net.minecraft.block.BlockSilverfish@2ecc5436
+[13:42:35] [main/TRACE] [FML/]: Add : stonebrick 98 net.minecraft.block.BlockStoneBrick@9be1041
+[13:42:35] [main/TRACE] [FML/]: Add : stonebrick 98 net.minecraft.block.BlockStoneBrick@9be1041
+[13:42:35] [main/TRACE] [FML/]: Add : brown_mushroom_block 99 net.minecraft.block.BlockHugeMushroom@7adafa2c
+[13:42:35] [main/TRACE] [FML/]: Add : brown_mushroom_block 99 net.minecraft.block.BlockHugeMushroom@7adafa2c
+[13:42:35] [main/TRACE] [FML/]: Add : red_mushroom_block 100 net.minecraft.block.BlockHugeMushroom@3e5e9db7
+[13:42:35] [main/TRACE] [FML/]: Add : red_mushroom_block 100 net.minecraft.block.BlockHugeMushroom@3e5e9db7
+[13:42:35] [main/TRACE] [FML/]: Add : iron_bars 101 net.minecraft.block.BlockPane@7d1c19e6
+[13:42:35] [main/TRACE] [FML/]: Add : iron_bars 101 net.minecraft.block.BlockPane@7d1c19e6
+[13:42:35] [main/TRACE] [FML/]: Add : glass_pane 102 net.minecraft.block.BlockPane@3fe88b35
+[13:42:35] [main/TRACE] [FML/]: Add : glass_pane 102 net.minecraft.block.BlockPane@3fe88b35
+[13:42:35] [main/TRACE] [FML/]: Add : melon_block 103 net.minecraft.block.BlockMelon@7cd2b918
+[13:42:35] [main/TRACE] [FML/]: Add : melon_block 103 net.minecraft.block.BlockMelon@7cd2b918
+[13:42:35] [main/TRACE] [FML/]: Add : pumpkin_stem 104 net.minecraft.block.BlockStem@11742dfe
+[13:42:35] [main/TRACE] [FML/]: Add : pumpkin_stem 104 net.minecraft.block.BlockStem@11742dfe
+[13:42:35] [main/TRACE] [FML/]: Add : melon_stem 105 net.minecraft.block.BlockStem@627787a5
+[13:42:35] [main/TRACE] [FML/]: Add : melon_stem 105 net.minecraft.block.BlockStem@627787a5
+[13:42:35] [main/TRACE] [FML/]: Add : vine 106 net.minecraft.block.BlockVine@67cec874
+[13:42:35] [main/TRACE] [FML/]: Add : vine 106 net.minecraft.block.BlockVine@67cec874
+[13:42:35] [main/TRACE] [FML/]: Add : fence_gate 107 net.minecraft.block.BlockFenceGate@651e67c
+[13:42:35] [main/TRACE] [FML/]: Add : fence_gate 107 net.minecraft.block.BlockFenceGate@651e67c
+[13:42:35] [main/TRACE] [FML/]: Add : brick_stairs 108 net.minecraft.block.BlockStairs@6af2da21
+[13:42:35] [main/TRACE] [FML/]: Add : brick_stairs 108 net.minecraft.block.BlockStairs@6af2da21
+[13:42:35] [main/TRACE] [FML/]: Add : stone_brick_stairs 109 net.minecraft.block.BlockStairs@6dcee361
+[13:42:35] [main/TRACE] [FML/]: Add : stone_brick_stairs 109 net.minecraft.block.BlockStairs@6dcee361
+[13:42:35] [main/TRACE] [FML/]: Add : mycelium 110 net.minecraft.block.BlockMycelium@5273a5d3
+[13:42:35] [main/TRACE] [FML/]: Add : mycelium 110 net.minecraft.block.BlockMycelium@5273a5d3
+[13:42:35] [main/TRACE] [FML/]: Add : waterlily 111 net.minecraft.block.BlockLilyPad@7f9360e7
+[13:42:35] [main/TRACE] [FML/]: Add : waterlily 111 net.minecraft.block.BlockLilyPad@7f9360e7
+[13:42:35] [main/TRACE] [FML/]: Add : nether_brick 112 net.minecraft.block.Block@24bf1f20
+[13:42:35] [main/TRACE] [FML/]: Add : nether_brick 112 net.minecraft.block.Block@24bf1f20
+[13:42:35] [main/TRACE] [FML/]: Add : nether_brick_fence 113 net.minecraft.block.BlockFence@7f9480b8
+[13:42:35] [main/TRACE] [FML/]: Add : nether_brick_fence 113 net.minecraft.block.BlockFence@7f9480b8
+[13:42:35] [main/TRACE] [FML/]: Add : nether_brick_stairs 114 net.minecraft.block.BlockStairs@6e8ef177
+[13:42:35] [main/TRACE] [FML/]: Add : nether_brick_stairs 114 net.minecraft.block.BlockStairs@6e8ef177
+[13:42:35] [main/TRACE] [FML/]: Add : nether_wart 115 net.minecraft.block.BlockNetherWart@51017ca1
+[13:42:35] [main/TRACE] [FML/]: Add : nether_wart 115 net.minecraft.block.BlockNetherWart@51017ca1
+[13:42:35] [main/TRACE] [FML/]: Add : enchanting_table 116 net.minecraft.block.BlockEnchantmentTable@7cd1a1ab
+[13:42:35] [main/TRACE] [FML/]: Add : enchanting_table 116 net.minecraft.block.BlockEnchantmentTable@7cd1a1ab
+[13:42:35] [main/TRACE] [FML/]: Add : brewing_stand 117 net.minecraft.block.BlockBrewingStand@5d402eeb
+[13:42:35] [main/TRACE] [FML/]: Add : brewing_stand 117 net.minecraft.block.BlockBrewingStand@5d402eeb
+[13:42:35] [main/TRACE] [FML/]: Add : cauldron 118 net.minecraft.block.BlockCauldron@54cb2185
+[13:42:35] [main/TRACE] [FML/]: Add : cauldron 118 net.minecraft.block.BlockCauldron@54cb2185
+[13:42:35] [main/TRACE] [FML/]: Add : end_portal 119 net.minecraft.block.BlockEndPortal@2fbef1ac
+[13:42:35] [main/TRACE] [FML/]: Add : end_portal 119 net.minecraft.block.BlockEndPortal@2fbef1ac
+[13:42:35] [main/TRACE] [FML/]: Add : end_portal_frame 120 net.minecraft.block.BlockEndPortalFrame@29422384
+[13:42:35] [main/TRACE] [FML/]: Add : end_portal_frame 120 net.minecraft.block.BlockEndPortalFrame@29422384
+[13:42:35] [main/TRACE] [FML/]: Add : end_stone 121 net.minecraft.block.Block@3529c445
+[13:42:35] [main/TRACE] [FML/]: Add : end_stone 121 net.minecraft.block.Block@3529c445
+[13:42:35] [main/TRACE] [FML/]: Add : dragon_egg 122 net.minecraft.block.BlockDragonEgg@75c45731
+[13:42:35] [main/TRACE] [FML/]: Add : dragon_egg 122 net.minecraft.block.BlockDragonEgg@75c45731
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_lamp 123 net.minecraft.block.BlockRedstoneLight@4b0613aa
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_lamp 123 net.minecraft.block.BlockRedstoneLight@4b0613aa
+[13:42:35] [main/TRACE] [FML/]: Add : lit_redstone_lamp 124 net.minecraft.block.BlockRedstoneLight@7bf52460
+[13:42:35] [main/TRACE] [FML/]: Add : lit_redstone_lamp 124 net.minecraft.block.BlockRedstoneLight@7bf52460
+[13:42:35] [main/TRACE] [FML/]: Add : double_wooden_slab 125 net.minecraft.block.BlockWoodSlab@25861086
+[13:42:35] [main/TRACE] [FML/]: Add : double_wooden_slab 125 net.minecraft.block.BlockWoodSlab@25861086
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_slab 126 net.minecraft.block.BlockWoodSlab@4a6e0a9
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_slab 126 net.minecraft.block.BlockWoodSlab@4a6e0a9
+[13:42:35] [main/TRACE] [FML/]: Add : cocoa 127 net.minecraft.block.BlockCocoa@32fd4662
+[13:42:35] [main/TRACE] [FML/]: Add : cocoa 127 net.minecraft.block.BlockCocoa@32fd4662
+[13:42:35] [main/TRACE] [FML/]: Add : sandstone_stairs 128 net.minecraft.block.BlockStairs@1217e615
+[13:42:35] [main/TRACE] [FML/]: Add : sandstone_stairs 128 net.minecraft.block.BlockStairs@1217e615
+[13:42:35] [main/TRACE] [FML/]: Add : emerald_ore 129 net.minecraft.block.BlockOre@5f0275fa
+[13:42:35] [main/TRACE] [FML/]: Add : emerald_ore 129 net.minecraft.block.BlockOre@5f0275fa
+[13:42:35] [main/TRACE] [FML/]: Add : ender_chest 130 net.minecraft.block.BlockEnderChest@310dd4c8
+[13:42:35] [main/TRACE] [FML/]: Add : ender_chest 130 net.minecraft.block.BlockEnderChest@310dd4c8
+[13:42:35] [main/TRACE] [FML/]: Add : tripwire_hook 131 net.minecraft.block.BlockTripWireHook@1fb88122
+[13:42:35] [main/TRACE] [FML/]: Add : tripwire_hook 131 net.minecraft.block.BlockTripWireHook@1fb88122
+[13:42:35] [main/TRACE] [FML/]: Add : tripwire 132 net.minecraft.block.BlockTripWire@16e334a
+[13:42:35] [main/TRACE] [FML/]: Add : tripwire 132 net.minecraft.block.BlockTripWire@16e334a
+[13:42:35] [main/TRACE] [FML/]: Add : emerald_block 133 net.minecraft.block.BlockCompressed@69e94001
+[13:42:35] [main/TRACE] [FML/]: Add : emerald_block 133 net.minecraft.block.BlockCompressed@69e94001
+[13:42:35] [main/TRACE] [FML/]: Add : spruce_stairs 134 net.minecraft.block.BlockStairs@506937f9
+[13:42:35] [main/TRACE] [FML/]: Add : spruce_stairs 134 net.minecraft.block.BlockStairs@506937f9
+[13:42:35] [main/TRACE] [FML/]: Add : birch_stairs 135 net.minecraft.block.BlockStairs@2bd9e5ad
+[13:42:35] [main/TRACE] [FML/]: Add : birch_stairs 135 net.minecraft.block.BlockStairs@2bd9e5ad
+[13:42:35] [main/TRACE] [FML/]: Add : jungle_stairs 136 net.minecraft.block.BlockStairs@6e75d758
+[13:42:35] [main/TRACE] [FML/]: Add : jungle_stairs 136 net.minecraft.block.BlockStairs@6e75d758
+[13:42:35] [main/TRACE] [FML/]: Add : command_block 137 net.minecraft.block.BlockCommandBlock@2778c490
+[13:42:35] [main/TRACE] [FML/]: Add : command_block 137 net.minecraft.block.BlockCommandBlock@2778c490
+[13:42:35] [main/TRACE] [FML/]: Add : beacon 138 net.minecraft.block.BlockBeacon@546e3e5e
+[13:42:35] [main/TRACE] [FML/]: Add : beacon 138 net.minecraft.block.BlockBeacon@546e3e5e
+[13:42:35] [main/TRACE] [FML/]: Add : cobblestone_wall 139 net.minecraft.block.BlockWall@3857dc15
+[13:42:35] [main/TRACE] [FML/]: Add : cobblestone_wall 139 net.minecraft.block.BlockWall@3857dc15
+[13:42:35] [main/TRACE] [FML/]: Add : flower_pot 140 net.minecraft.block.BlockFlowerPot@3cfa54fe
+[13:42:35] [main/TRACE] [FML/]: Add : flower_pot 140 net.minecraft.block.BlockFlowerPot@3cfa54fe
+[13:42:35] [main/TRACE] [FML/]: Add : carrots 141 net.minecraft.block.BlockCarrot@10f1f34a
+[13:42:35] [main/TRACE] [FML/]: Add : carrots 141 net.minecraft.block.BlockCarrot@10f1f34a
+[13:42:35] [main/TRACE] [FML/]: Add : potatoes 142 net.minecraft.block.BlockPotato@2340b8fd
+[13:42:35] [main/TRACE] [FML/]: Add : potatoes 142 net.minecraft.block.BlockPotato@2340b8fd
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_button 143 net.minecraft.block.BlockButtonWood@15a4eb56
+[13:42:35] [main/TRACE] [FML/]: Add : wooden_button 143 net.minecraft.block.BlockButtonWood@15a4eb56
+[13:42:35] [main/TRACE] [FML/]: Add : skull 144 net.minecraft.block.BlockSkull@1af70ee1
+[13:42:35] [main/TRACE] [FML/]: Add : skull 144 net.minecraft.block.BlockSkull@1af70ee1
+[13:42:35] [main/TRACE] [FML/]: Add : anvil 145 net.minecraft.block.BlockAnvil@70a1c582
+[13:42:35] [main/TRACE] [FML/]: Add : anvil 145 net.minecraft.block.BlockAnvil@70a1c582
+[13:42:35] [main/TRACE] [FML/]: Add : trapped_chest 146 net.minecraft.block.BlockChest@cae1393
+[13:42:35] [main/TRACE] [FML/]: Add : trapped_chest 146 net.minecraft.block.BlockChest@cae1393
+[13:42:35] [main/TRACE] [FML/]: Add : light_weighted_pressure_plate 147 net.minecraft.block.BlockPressurePlateWeighted@5c5f1c48
+[13:42:35] [main/TRACE] [FML/]: Add : light_weighted_pressure_plate 147 net.minecraft.block.BlockPressurePlateWeighted@5c5f1c48
+[13:42:35] [main/TRACE] [FML/]: Add : heavy_weighted_pressure_plate 148 net.minecraft.block.BlockPressurePlateWeighted@6839ea58
+[13:42:35] [main/TRACE] [FML/]: Add : heavy_weighted_pressure_plate 148 net.minecraft.block.BlockPressurePlateWeighted@6839ea58
+[13:42:35] [main/TRACE] [FML/]: Add : unpowered_comparator 149 net.minecraft.block.BlockRedstoneComparator@464d28c7
+[13:42:35] [main/TRACE] [FML/]: Add : unpowered_comparator 149 net.minecraft.block.BlockRedstoneComparator@464d28c7
+[13:42:35] [main/TRACE] [FML/]: Add : powered_comparator 150 net.minecraft.block.BlockRedstoneComparator@73b044df
+[13:42:35] [main/TRACE] [FML/]: Add : powered_comparator 150 net.minecraft.block.BlockRedstoneComparator@73b044df
+[13:42:35] [main/TRACE] [FML/]: Add : daylight_detector 151 net.minecraft.block.BlockDaylightDetector@690ff62a
+[13:42:35] [main/TRACE] [FML/]: Add : daylight_detector 151 net.minecraft.block.BlockDaylightDetector@690ff62a
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_block 152 net.minecraft.block.BlockCompressedPowered@4f549ceb
+[13:42:35] [main/TRACE] [FML/]: Add : redstone_block 152 net.minecraft.block.BlockCompressedPowered@4f549ceb
+[13:42:35] [main/TRACE] [FML/]: Add : quartz_ore 153 net.minecraft.block.BlockOre@3c0a30fd
+[13:42:35] [main/TRACE] [FML/]: Add : quartz_ore 153 net.minecraft.block.BlockOre@3c0a30fd
+[13:42:35] [main/TRACE] [FML/]: Add : hopper 154 net.minecraft.block.BlockHopper@3589c12a
+[13:42:35] [main/TRACE] [FML/]: Add : hopper 154 net.minecraft.block.BlockHopper@3589c12a
+[13:42:35] [main/TRACE] [FML/]: Add : quartz_block 155 net.minecraft.block.BlockQuartz@6d0718b7
+[13:42:35] [main/TRACE] [FML/]: Add : quartz_block 155 net.minecraft.block.BlockQuartz@6d0718b7
+[13:42:35] [main/TRACE] [FML/]: Add : quartz_stairs 156 net.minecraft.block.BlockStairs@6ce7ce4c
+[13:42:35] [main/TRACE] [FML/]: Add : quartz_stairs 156 net.minecraft.block.BlockStairs@6ce7ce4c
+[13:42:35] [main/TRACE] [FML/]: Add : activator_rail 157 net.minecraft.block.BlockRailPowered@6699176f
+[13:42:35] [main/TRACE] [FML/]: Add : activator_rail 157 net.minecraft.block.BlockRailPowered@6699176f
+[13:42:35] [main/TRACE] [FML/]: Add : dropper 158 net.minecraft.block.BlockDropper@38666d83
+[13:42:35] [main/TRACE] [FML/]: Add : dropper 158 net.minecraft.block.BlockDropper@38666d83
+[13:42:35] [main/TRACE] [FML/]: Add : stained_hardened_clay 159 net.minecraft.block.BlockColored@4c9fd062
+[13:42:35] [main/TRACE] [FML/]: Add : stained_hardened_clay 159 net.minecraft.block.BlockColored@4c9fd062
+[13:42:35] [main/TRACE] [FML/]: Add : stained_glass_pane 160 net.minecraft.block.BlockStainedGlassPane@436d4b50
+[13:42:35] [main/TRACE] [FML/]: Add : stained_glass_pane 160 net.minecraft.block.BlockStainedGlassPane@436d4b50
+[13:42:35] [main/TRACE] [FML/]: Add : leaves2 161 net.minecraft.block.BlockNewLeaf@1f61509b
+[13:42:35] [main/TRACE] [FML/]: Add : leaves2 161 net.minecraft.block.BlockNewLeaf@1f61509b
+[13:42:35] [main/TRACE] [FML/]: Add : log2 162 net.minecraft.block.BlockNewLog@52287b58
+[13:42:35] [main/TRACE] [FML/]: Add : log2 162 net.minecraft.block.BlockNewLog@52287b58
+[13:42:35] [main/TRACE] [FML/]: Add : acacia_stairs 163 net.minecraft.block.BlockStairs@5fb9f88b
+[13:42:35] [main/TRACE] [FML/]: Add : acacia_stairs 163 net.minecraft.block.BlockStairs@5fb9f88b
+[13:42:35] [main/TRACE] [FML/]: Add : dark_oak_stairs 164 net.minecraft.block.BlockStairs@2a6c9ec6
+[13:42:35] [main/TRACE] [FML/]: Add : dark_oak_stairs 164 net.minecraft.block.BlockStairs@2a6c9ec6
+[13:42:35] [main/TRACE] [FML/]: Add : hay_block 170 net.minecraft.block.BlockHay@5057f57f
+[13:42:35] [main/TRACE] [FML/]: Add : hay_block 170 net.minecraft.block.BlockHay@5057f57f
+[13:42:35] [main/TRACE] [FML/]: Add : carpet 171 net.minecraft.block.BlockCarpet@dfeaf06
+[13:42:35] [main/TRACE] [FML/]: Add : carpet 171 net.minecraft.block.BlockCarpet@dfeaf06
+[13:42:35] [main/TRACE] [FML/]: Add : hardened_clay 172 net.minecraft.block.BlockHardenedClay@62577c5e
+[13:42:35] [main/TRACE] [FML/]: Add : hardened_clay 172 net.minecraft.block.BlockHardenedClay@62577c5e
+[13:42:35] [main/TRACE] [FML/]: Add : coal_block 173 net.minecraft.block.Block@5da631c2
+[13:42:35] [main/TRACE] [FML/]: Add : coal_block 173 net.minecraft.block.Block@5da631c2
+[13:42:35] [main/TRACE] [FML/]: Add : packed_ice 174 net.minecraft.block.BlockPackedIce@23bf8cd5
+[13:42:35] [main/TRACE] [FML/]: Add : packed_ice 174 net.minecraft.block.BlockPackedIce@23bf8cd5
+[13:42:35] [main/TRACE] [FML/]: Add : double_plant 175 net.minecraft.block.BlockDoublePlant@74b70648
+[13:42:35] [main/TRACE] [FML/]: Add : double_plant 175 net.minecraft.block.BlockDoublePlant@74b70648
+[13:42:35] [main/TRACE] [FML/]: Add : iron_shovel 256 net.minecraft.item.ItemSpade@c7056d5
+[13:42:35] [main/TRACE] [FML/]: Add : iron_shovel 256 net.minecraft.item.ItemSpade@c7056d5
+[13:42:35] [main/TRACE] [FML/]: Add : iron_pickaxe 257 net.minecraft.item.ItemPickaxe@2354c054
+[13:42:35] [main/TRACE] [FML/]: Add : iron_pickaxe 257 net.minecraft.item.ItemPickaxe@2354c054
+[13:42:35] [main/TRACE] [FML/]: Add : iron_axe 258 net.minecraft.item.ItemAxe@111edceb
+[13:42:35] [main/TRACE] [FML/]: Add : iron_axe 258 net.minecraft.item.ItemAxe@111edceb
+[13:42:35] [main/TRACE] [FML/]: Add : flint_and_steel 259 net.minecraft.item.ItemFlintAndSteel@5883de21
+[13:42:35] [main/TRACE] [FML/]: Add : flint_and_steel 259 net.minecraft.item.ItemFlintAndSteel@5883de21
+[13:42:35] [main/TRACE] [FML/]: Add : apple 260 net.minecraft.item.ItemFood@d7e60a1
+[13:42:35] [main/TRACE] [FML/]: Add : apple 260 net.minecraft.item.ItemFood@d7e60a1
+[13:42:36] [main/TRACE] [FML/]: Add : bow 261 net.minecraft.item.ItemBow@69d4eeb5
+[13:42:36] [main/TRACE] [FML/]: Add : bow 261 net.minecraft.item.ItemBow@69d4eeb5
+[13:42:36] [main/TRACE] [FML/]: Add : arrow 262 net.minecraft.item.Item@1a83e35b
+[13:42:36] [main/TRACE] [FML/]: Add : arrow 262 net.minecraft.item.Item@1a83e35b
+[13:42:36] [main/TRACE] [FML/]: Add : coal 263 net.minecraft.item.ItemCoal@50a2d304
+[13:42:36] [main/TRACE] [FML/]: Add : coal 263 net.minecraft.item.ItemCoal@50a2d304
+[13:42:36] [main/TRACE] [FML/]: Add : diamond 264 net.minecraft.item.Item@71cbd4f7
+[13:42:36] [main/TRACE] [FML/]: Add : diamond 264 net.minecraft.item.Item@71cbd4f7
+[13:42:36] [main/TRACE] [FML/]: Add : iron_ingot 265 net.minecraft.item.Item@7d0ade7e
+[13:42:36] [main/TRACE] [FML/]: Add : iron_ingot 265 net.minecraft.item.Item@7d0ade7e
+[13:42:36] [main/TRACE] [FML/]: Add : gold_ingot 266 net.minecraft.item.Item@54956254
+[13:42:36] [main/TRACE] [FML/]: Add : gold_ingot 266 net.minecraft.item.Item@54956254
+[13:42:36] [main/TRACE] [FML/]: Add : iron_sword 267 net.minecraft.item.ItemSword@1aa632be
+[13:42:36] [main/TRACE] [FML/]: Add : iron_sword 267 net.minecraft.item.ItemSword@1aa632be
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_sword 268 net.minecraft.item.ItemSword@154d659d
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_sword 268 net.minecraft.item.ItemSword@154d659d
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_shovel 269 net.minecraft.item.ItemSpade@c4a3158
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_shovel 269 net.minecraft.item.ItemSpade@c4a3158
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_pickaxe 270 net.minecraft.item.ItemPickaxe@5aed8eb5
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_pickaxe 270 net.minecraft.item.ItemPickaxe@5aed8eb5
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_axe 271 net.minecraft.item.ItemAxe@22343bb6
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_axe 271 net.minecraft.item.ItemAxe@22343bb6
+[13:42:36] [main/TRACE] [FML/]: Add : stone_sword 272 net.minecraft.item.ItemSword@133c3b45
+[13:42:36] [main/TRACE] [FML/]: Add : stone_sword 272 net.minecraft.item.ItemSword@133c3b45
+[13:42:36] [main/TRACE] [FML/]: Add : stone_shovel 273 net.minecraft.item.ItemSpade@575738e0
+[13:42:36] [main/TRACE] [FML/]: Add : stone_shovel 273 net.minecraft.item.ItemSpade@575738e0
+[13:42:36] [main/TRACE] [FML/]: Add : stone_pickaxe 274 net.minecraft.item.ItemPickaxe@1f5726ec
+[13:42:36] [main/TRACE] [FML/]: Add : stone_pickaxe 274 net.minecraft.item.ItemPickaxe@1f5726ec
+[13:42:36] [main/TRACE] [FML/]: Add : stone_axe 275 net.minecraft.item.ItemAxe@12bc6007
+[13:42:36] [main/TRACE] [FML/]: Add : stone_axe 275 net.minecraft.item.ItemAxe@12bc6007
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_sword 276 net.minecraft.item.ItemSword@d44752d
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_sword 276 net.minecraft.item.ItemSword@d44752d
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_shovel 277 net.minecraft.item.ItemSpade@968e429
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_shovel 277 net.minecraft.item.ItemSpade@968e429
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_pickaxe 278 net.minecraft.item.ItemPickaxe@455b4492
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_pickaxe 278 net.minecraft.item.ItemPickaxe@455b4492
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_axe 279 net.minecraft.item.ItemAxe@6af2f0d0
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_axe 279 net.minecraft.item.ItemAxe@6af2f0d0
+[13:42:36] [main/TRACE] [FML/]: Add : stick 280 net.minecraft.item.Item@73a01e8a
+[13:42:36] [main/TRACE] [FML/]: Add : stick 280 net.minecraft.item.Item@73a01e8a
+[13:42:36] [main/TRACE] [FML/]: Add : bowl 281 net.minecraft.item.Item@15353154
+[13:42:36] [main/TRACE] [FML/]: Add : bowl 281 net.minecraft.item.Item@15353154
+[13:42:36] [main/TRACE] [FML/]: Add : mushroom_stew 282 net.minecraft.item.ItemSoup@a4d93e3
+[13:42:36] [main/TRACE] [FML/]: Add : mushroom_stew 282 net.minecraft.item.ItemSoup@a4d93e3
+[13:42:36] [main/TRACE] [FML/]: Add : golden_sword 283 net.minecraft.item.ItemSword@6b28215d
+[13:42:36] [main/TRACE] [FML/]: Add : golden_sword 283 net.minecraft.item.ItemSword@6b28215d
+[13:42:36] [main/TRACE] [FML/]: Add : golden_shovel 284 net.minecraft.item.ItemSpade@17a697a1
+[13:42:36] [main/TRACE] [FML/]: Add : golden_shovel 284 net.minecraft.item.ItemSpade@17a697a1
+[13:42:36] [main/TRACE] [FML/]: Add : golden_pickaxe 285 net.minecraft.item.ItemPickaxe@3a2cd728
+[13:42:36] [main/TRACE] [FML/]: Add : golden_pickaxe 285 net.minecraft.item.ItemPickaxe@3a2cd728
+[13:42:36] [main/TRACE] [FML/]: Add : golden_axe 286 net.minecraft.item.ItemAxe@55e1a0ee
+[13:42:36] [main/TRACE] [FML/]: Add : golden_axe 286 net.minecraft.item.ItemAxe@55e1a0ee
+[13:42:36] [main/TRACE] [FML/]: Add : string 287 net.minecraft.item.ItemReed@6f67c6fd
+[13:42:36] [main/TRACE] [FML/]: Add : string 287 net.minecraft.item.ItemReed@6f67c6fd
+[13:42:36] [main/TRACE] [FML/]: Add : feather 288 net.minecraft.item.Item@639452f
+[13:42:36] [main/TRACE] [FML/]: Add : feather 288 net.minecraft.item.Item@639452f
+[13:42:36] [main/TRACE] [FML/]: Add : gunpowder 289 net.minecraft.item.Item@4a4de3fe
+[13:42:36] [main/TRACE] [FML/]: Add : gunpowder 289 net.minecraft.item.Item@4a4de3fe
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_hoe 290 net.minecraft.item.ItemHoe@2cbc9673
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_hoe 290 net.minecraft.item.ItemHoe@2cbc9673
+[13:42:36] [main/TRACE] [FML/]: Add : stone_hoe 291 net.minecraft.item.ItemHoe@11396ef7
+[13:42:36] [main/TRACE] [FML/]: Add : stone_hoe 291 net.minecraft.item.ItemHoe@11396ef7
+[13:42:36] [main/TRACE] [FML/]: Add : iron_hoe 292 net.minecraft.item.ItemHoe@51a422f6
+[13:42:36] [main/TRACE] [FML/]: Add : iron_hoe 292 net.minecraft.item.ItemHoe@51a422f6
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_hoe 293 net.minecraft.item.ItemHoe@6ef36e59
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_hoe 293 net.minecraft.item.ItemHoe@6ef36e59
+[13:42:36] [main/TRACE] [FML/]: Add : golden_hoe 294 net.minecraft.item.ItemHoe@2fd1cdf7
+[13:42:36] [main/TRACE] [FML/]: Add : golden_hoe 294 net.minecraft.item.ItemHoe@2fd1cdf7
+[13:42:36] [main/TRACE] [FML/]: Add : wheat_seeds 295 net.minecraft.item.ItemSeeds@7eec835f
+[13:42:36] [main/TRACE] [FML/]: Add : wheat_seeds 295 net.minecraft.item.ItemSeeds@7eec835f
+[13:42:36] [main/TRACE] [FML/]: Add : wheat 296 net.minecraft.item.Item@59a51312
+[13:42:36] [main/TRACE] [FML/]: Add : wheat 296 net.minecraft.item.Item@59a51312
+[13:42:36] [main/TRACE] [FML/]: Add : bread 297 net.minecraft.item.ItemFood@648730b8
+[13:42:36] [main/TRACE] [FML/]: Add : bread 297 net.minecraft.item.ItemFood@648730b8
+[13:42:36] [main/TRACE] [FML/]: Add : leather_helmet 298 net.minecraft.item.ItemArmor@74455aa8
+[13:42:36] [main/TRACE] [FML/]: Add : leather_helmet 298 net.minecraft.item.ItemArmor@74455aa8
+[13:42:36] [main/TRACE] [FML/]: Add : leather_chestplate 299 net.minecraft.item.ItemArmor@7543073a
+[13:42:36] [main/TRACE] [FML/]: Add : leather_chestplate 299 net.minecraft.item.ItemArmor@7543073a
+[13:42:36] [main/TRACE] [FML/]: Add : leather_leggings 300 net.minecraft.item.ItemArmor@38facfb
+[13:42:36] [main/TRACE] [FML/]: Add : leather_leggings 300 net.minecraft.item.ItemArmor@38facfb
+[13:42:36] [main/TRACE] [FML/]: Add : leather_boots 301 net.minecraft.item.ItemArmor@4da59490
+[13:42:36] [main/TRACE] [FML/]: Add : leather_boots 301 net.minecraft.item.ItemArmor@4da59490
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_helmet 302 net.minecraft.item.ItemArmor@31bca1c3
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_helmet 302 net.minecraft.item.ItemArmor@31bca1c3
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_chestplate 303 net.minecraft.item.ItemArmor@572022b7
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_chestplate 303 net.minecraft.item.ItemArmor@572022b7
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_leggings 304 net.minecraft.item.ItemArmor@7ec74910
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_leggings 304 net.minecraft.item.ItemArmor@7ec74910
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_boots 305 net.minecraft.item.ItemArmor@4d8dfa76
+[13:42:36] [main/TRACE] [FML/]: Add : chainmail_boots 305 net.minecraft.item.ItemArmor@4d8dfa76
+[13:42:36] [main/TRACE] [FML/]: Add : iron_helmet 306 net.minecraft.item.ItemArmor@243680c1
+[13:42:36] [main/TRACE] [FML/]: Add : iron_helmet 306 net.minecraft.item.ItemArmor@243680c1
+[13:42:36] [main/TRACE] [FML/]: Add : iron_chestplate 307 net.minecraft.item.ItemArmor@763f1179
+[13:42:36] [main/TRACE] [FML/]: Add : iron_chestplate 307 net.minecraft.item.ItemArmor@763f1179
+[13:42:36] [main/TRACE] [FML/]: Add : iron_leggings 308 net.minecraft.item.ItemArmor@26945b95
+[13:42:36] [main/TRACE] [FML/]: Add : iron_leggings 308 net.minecraft.item.ItemArmor@26945b95
+[13:42:36] [main/TRACE] [FML/]: Add : iron_boots 309 net.minecraft.item.ItemArmor@5608a6fc
+[13:42:36] [main/TRACE] [FML/]: Add : iron_boots 309 net.minecraft.item.ItemArmor@5608a6fc
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_helmet 310 net.minecraft.item.ItemArmor@520b1684
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_helmet 310 net.minecraft.item.ItemArmor@520b1684
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_chestplate 311 net.minecraft.item.ItemArmor@55f35e30
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_chestplate 311 net.minecraft.item.ItemArmor@55f35e30
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_leggings 312 net.minecraft.item.ItemArmor@5caccd65
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_leggings 312 net.minecraft.item.ItemArmor@5caccd65
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_boots 313 net.minecraft.item.ItemArmor@54e0d16b
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_boots 313 net.minecraft.item.ItemArmor@54e0d16b
+[13:42:36] [main/TRACE] [FML/]: Add : golden_helmet 314 net.minecraft.item.ItemArmor@73d4f355
+[13:42:36] [main/TRACE] [FML/]: Add : golden_helmet 314 net.minecraft.item.ItemArmor@73d4f355
+[13:42:36] [main/TRACE] [FML/]: Add : golden_chestplate 315 net.minecraft.item.ItemArmor@21b38cdc
+[13:42:36] [main/TRACE] [FML/]: Add : golden_chestplate 315 net.minecraft.item.ItemArmor@21b38cdc
+[13:42:36] [main/TRACE] [FML/]: Add : golden_leggings 316 net.minecraft.item.ItemArmor@12e4d0cd
+[13:42:36] [main/TRACE] [FML/]: Add : golden_leggings 316 net.minecraft.item.ItemArmor@12e4d0cd
+[13:42:36] [main/TRACE] [FML/]: Add : golden_boots 317 net.minecraft.item.ItemArmor@6c484c6b
+[13:42:36] [main/TRACE] [FML/]: Add : golden_boots 317 net.minecraft.item.ItemArmor@6c484c6b
+[13:42:36] [main/TRACE] [FML/]: Add : flint 318 net.minecraft.item.Item@7e913c56
+[13:42:36] [main/TRACE] [FML/]: Add : flint 318 net.minecraft.item.Item@7e913c56
+[13:42:36] [main/TRACE] [FML/]: Add : porkchop 319 net.minecraft.item.ItemFood@71107304
+[13:42:36] [main/TRACE] [FML/]: Add : porkchop 319 net.minecraft.item.ItemFood@71107304
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_porkchop 320 net.minecraft.item.ItemFood@6eef4599
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_porkchop 320 net.minecraft.item.ItemFood@6eef4599
+[13:42:36] [main/TRACE] [FML/]: Add : painting 321 net.minecraft.item.ItemHangingEntity@37fcd402
+[13:42:36] [main/TRACE] [FML/]: Add : painting 321 net.minecraft.item.ItemHangingEntity@37fcd402
+[13:42:36] [main/TRACE] [FML/]: Add : golden_apple 322 net.minecraft.item.ItemAppleGold@4b7d03c5
+[13:42:36] [main/TRACE] [FML/]: Add : golden_apple 322 net.minecraft.item.ItemAppleGold@4b7d03c5
+[13:42:36] [main/TRACE] [FML/]: Add : sign 323 net.minecraft.item.ItemSign@465da37c
+[13:42:36] [main/TRACE] [FML/]: Add : sign 323 net.minecraft.item.ItemSign@465da37c
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_door 324 net.minecraft.item.ItemDoor@2206179e
+[13:42:36] [main/TRACE] [FML/]: Add : wooden_door 324 net.minecraft.item.ItemDoor@2206179e
+[13:42:36] [main/TRACE] [FML/]: Add : bucket 325 net.minecraft.item.ItemBucket@315863e4
+[13:42:36] [main/TRACE] [FML/]: Add : bucket 325 net.minecraft.item.ItemBucket@315863e4
+[13:42:36] [main/TRACE] [FML/]: Add : water_bucket 326 net.minecraft.item.ItemBucket@2206270b
+[13:42:36] [main/TRACE] [FML/]: Add : water_bucket 326 net.minecraft.item.ItemBucket@2206270b
+[13:42:36] [main/TRACE] [FML/]: Add : lava_bucket 327 net.minecraft.item.ItemBucket@41ed54a0
+[13:42:36] [main/TRACE] [FML/]: Add : lava_bucket 327 net.minecraft.item.ItemBucket@41ed54a0
+[13:42:36] [main/TRACE] [FML/]: Add : minecart 328 net.minecraft.item.ItemMinecart@2f6a23cf
+[13:42:36] [main/TRACE] [FML/]: Add : minecart 328 net.minecraft.item.ItemMinecart@2f6a23cf
+[13:42:36] [main/TRACE] [FML/]: Add : saddle 329 net.minecraft.item.ItemSaddle@d0cc53e
+[13:42:36] [main/TRACE] [FML/]: Add : saddle 329 net.minecraft.item.ItemSaddle@d0cc53e
+[13:42:36] [main/TRACE] [FML/]: Add : iron_door 330 net.minecraft.item.ItemDoor@41697023
+[13:42:36] [main/TRACE] [FML/]: Add : iron_door 330 net.minecraft.item.ItemDoor@41697023
+[13:42:36] [main/TRACE] [FML/]: Add : redstone 331 net.minecraft.item.ItemRedstone@442982d8
+[13:42:36] [main/TRACE] [FML/]: Add : redstone 331 net.minecraft.item.ItemRedstone@442982d8
+[13:42:36] [main/TRACE] [FML/]: Add : snowball 332 net.minecraft.item.ItemSnowball@2b071e12
+[13:42:36] [main/TRACE] [FML/]: Add : snowball 332 net.minecraft.item.ItemSnowball@2b071e12
+[13:42:36] [main/TRACE] [FML/]: Add : boat 333 net.minecraft.item.ItemBoat@107aa187
+[13:42:36] [main/TRACE] [FML/]: Add : boat 333 net.minecraft.item.ItemBoat@107aa187
+[13:42:36] [main/TRACE] [FML/]: Add : leather 334 net.minecraft.item.Item@6302ae84
+[13:42:36] [main/TRACE] [FML/]: Add : leather 334 net.minecraft.item.Item@6302ae84
+[13:42:36] [main/TRACE] [FML/]: Add : milk_bucket 335 net.minecraft.item.ItemBucketMilk@45b2b450
+[13:42:36] [main/TRACE] [FML/]: Add : milk_bucket 335 net.minecraft.item.ItemBucketMilk@45b2b450
+[13:42:36] [main/TRACE] [FML/]: Add : brick 336 net.minecraft.item.Item@575c13ef
+[13:42:36] [main/TRACE] [FML/]: Add : brick 336 net.minecraft.item.Item@575c13ef
+[13:42:36] [main/TRACE] [FML/]: Add : clay_ball 337 net.minecraft.item.Item@5e20dcb7
+[13:42:36] [main/TRACE] [FML/]: Add : clay_ball 337 net.minecraft.item.Item@5e20dcb7
+[13:42:36] [main/TRACE] [FML/]: Add : reeds 338 net.minecraft.item.ItemReed@3f7aa2a8
+[13:42:36] [main/TRACE] [FML/]: Add : reeds 338 net.minecraft.item.ItemReed@3f7aa2a8
+[13:42:36] [main/TRACE] [FML/]: Add : paper 339 net.minecraft.item.Item@c4ce427
+[13:42:36] [main/TRACE] [FML/]: Add : paper 339 net.minecraft.item.Item@c4ce427
+[13:42:36] [main/TRACE] [FML/]: Add : book 340 net.minecraft.item.ItemBook@57a3eab6
+[13:42:36] [main/TRACE] [FML/]: Add : book 340 net.minecraft.item.ItemBook@57a3eab6
+[13:42:36] [main/TRACE] [FML/]: Add : slime_ball 341 net.minecraft.item.Item@4a867fad
+[13:42:36] [main/TRACE] [FML/]: Add : slime_ball 341 net.minecraft.item.Item@4a867fad
+[13:42:36] [main/TRACE] [FML/]: Add : chest_minecart 342 net.minecraft.item.ItemMinecart@44285d14
+[13:42:36] [main/TRACE] [FML/]: Add : chest_minecart 342 net.minecraft.item.ItemMinecart@44285d14
+[13:42:36] [main/TRACE] [FML/]: Add : furnace_minecart 343 net.minecraft.item.ItemMinecart@35f6ef01
+[13:42:36] [main/TRACE] [FML/]: Add : furnace_minecart 343 net.minecraft.item.ItemMinecart@35f6ef01
+[13:42:36] [main/TRACE] [FML/]: Add : egg 344 net.minecraft.item.ItemEgg@c303a60
+[13:42:36] [main/TRACE] [FML/]: Add : egg 344 net.minecraft.item.ItemEgg@c303a60
+[13:42:36] [main/TRACE] [FML/]: Add : compass 345 net.minecraft.item.Item@32487ae0
+[13:42:36] [main/TRACE] [FML/]: Add : compass 345 net.minecraft.item.Item@32487ae0
+[13:42:36] [main/TRACE] [FML/]: Add : fishing_rod 346 net.minecraft.item.ItemFishingRod@784e8edc
+[13:42:36] [main/TRACE] [FML/]: Add : fishing_rod 346 net.minecraft.item.ItemFishingRod@784e8edc
+[13:42:36] [main/TRACE] [FML/]: Add : clock 347 net.minecraft.item.Item@6d854b38
+[13:42:36] [main/TRACE] [FML/]: Add : clock 347 net.minecraft.item.Item@6d854b38
+[13:42:36] [main/TRACE] [FML/]: Add : glowstone_dust 348 net.minecraft.item.Item@4a0d81b4
+[13:42:36] [main/TRACE] [FML/]: Add : glowstone_dust 348 net.minecraft.item.Item@4a0d81b4
+[13:42:36] [main/TRACE] [FML/]: Add : fish 349 net.minecraft.item.ItemFishFood@4838462a
+[13:42:36] [main/TRACE] [FML/]: Add : fish 349 net.minecraft.item.ItemFishFood@4838462a
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_fished 350 net.minecraft.item.ItemFishFood@66869470
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_fished 350 net.minecraft.item.ItemFishFood@66869470
+[13:42:36] [main/TRACE] [FML/]: Add : dye 351 net.minecraft.item.ItemDye@10fa706d
+[13:42:36] [main/TRACE] [FML/]: Add : dye 351 net.minecraft.item.ItemDye@10fa706d
+[13:42:36] [main/TRACE] [FML/]: Add : bone 352 net.minecraft.item.Item@29eb0cd0
+[13:42:36] [main/TRACE] [FML/]: Add : bone 352 net.minecraft.item.Item@29eb0cd0
+[13:42:36] [main/TRACE] [FML/]: Add : sugar 353 net.minecraft.item.Item@6964130
+[13:42:36] [main/TRACE] [FML/]: Add : sugar 353 net.minecraft.item.Item@6964130
+[13:42:36] [main/TRACE] [FML/]: Add : cake 354 net.minecraft.item.ItemReed@7291b9b0
+[13:42:36] [main/TRACE] [FML/]: Add : cake 354 net.minecraft.item.ItemReed@7291b9b0
+[13:42:36] [main/TRACE] [FML/]: Add : bed 355 net.minecraft.item.ItemBed@19aa5882
+[13:42:36] [main/TRACE] [FML/]: Add : bed 355 net.minecraft.item.ItemBed@19aa5882
+[13:42:36] [main/TRACE] [FML/]: Add : repeater 356 net.minecraft.item.ItemReed@7e98cbf7
+[13:42:36] [main/TRACE] [FML/]: Add : repeater 356 net.minecraft.item.ItemReed@7e98cbf7
+[13:42:36] [main/TRACE] [FML/]: Add : cookie 357 net.minecraft.item.ItemFood@6177060f
+[13:42:36] [main/TRACE] [FML/]: Add : cookie 357 net.minecraft.item.ItemFood@6177060f
+[13:42:36] [main/TRACE] [FML/]: Add : filled_map 358 net.minecraft.item.ItemMap@2d0c94a7
+[13:42:36] [main/TRACE] [FML/]: Add : filled_map 358 net.minecraft.item.ItemMap@2d0c94a7
+[13:42:36] [main/TRACE] [FML/]: Add : shears 359 net.minecraft.item.ItemShears@28f549de
+[13:42:36] [main/TRACE] [FML/]: Add : shears 359 net.minecraft.item.ItemShears@28f549de
+[13:42:36] [main/TRACE] [FML/]: Add : melon 360 net.minecraft.item.ItemFood@7fc4a2d3
+[13:42:36] [main/TRACE] [FML/]: Add : melon 360 net.minecraft.item.ItemFood@7fc4a2d3
+[13:42:36] [main/TRACE] [FML/]: Add : pumpkin_seeds 361 net.minecraft.item.ItemSeeds@469e0c2d
+[13:42:36] [main/TRACE] [FML/]: Add : pumpkin_seeds 361 net.minecraft.item.ItemSeeds@469e0c2d
+[13:42:36] [main/TRACE] [FML/]: Add : melon_seeds 362 net.minecraft.item.ItemSeeds@32318293
+[13:42:36] [main/TRACE] [FML/]: Add : melon_seeds 362 net.minecraft.item.ItemSeeds@32318293
+[13:42:36] [main/TRACE] [FML/]: Add : beef 363 net.minecraft.item.ItemFood@50739aa3
+[13:42:36] [main/TRACE] [FML/]: Add : beef 363 net.minecraft.item.ItemFood@50739aa3
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_beef 364 net.minecraft.item.ItemFood@55ad6c98
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_beef 364 net.minecraft.item.ItemFood@55ad6c98
+[13:42:36] [main/TRACE] [FML/]: Add : chicken 365 net.minecraft.item.ItemFood@6cb49b19
+[13:42:36] [main/TRACE] [FML/]: Add : chicken 365 net.minecraft.item.ItemFood@6cb49b19
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_chicken 366 net.minecraft.item.ItemFood@4532be10
+[13:42:36] [main/TRACE] [FML/]: Add : cooked_chicken 366 net.minecraft.item.ItemFood@4532be10
+[13:42:36] [main/TRACE] [FML/]: Add : rotten_flesh 367 net.minecraft.item.ItemFood@e4eb585
+[13:42:36] [main/TRACE] [FML/]: Add : rotten_flesh 367 net.minecraft.item.ItemFood@e4eb585
+[13:42:36] [main/TRACE] [FML/]: Add : ender_pearl 368 net.minecraft.item.ItemEnderPearl@21ce9f9d
+[13:42:36] [main/TRACE] [FML/]: Add : ender_pearl 368 net.minecraft.item.ItemEnderPearl@21ce9f9d
+[13:42:36] [main/TRACE] [FML/]: Add : blaze_rod 369 net.minecraft.item.Item@4510dc2
+[13:42:36] [main/TRACE] [FML/]: Add : blaze_rod 369 net.minecraft.item.Item@4510dc2
+[13:42:36] [main/TRACE] [FML/]: Add : ghast_tear 370 net.minecraft.item.Item@655e3dc4
+[13:42:36] [main/TRACE] [FML/]: Add : ghast_tear 370 net.minecraft.item.Item@655e3dc4
+[13:42:36] [main/TRACE] [FML/]: Add : gold_nugget 371 net.minecraft.item.Item@e2942da
+[13:42:36] [main/TRACE] [FML/]: Add : gold_nugget 371 net.minecraft.item.Item@e2942da
+[13:42:36] [main/TRACE] [FML/]: Add : nether_wart 372 net.minecraft.item.ItemSeeds@36e3fd79
+[13:42:36] [main/TRACE] [FML/]: Add : nether_wart 372 net.minecraft.item.ItemSeeds@36e3fd79
+[13:42:36] [main/TRACE] [FML/]: Add : potion 373 net.minecraft.item.ItemPotion@7087e9bf
+[13:42:36] [main/TRACE] [FML/]: Add : potion 373 net.minecraft.item.ItemPotion@7087e9bf
+[13:42:36] [main/TRACE] [FML/]: Add : glass_bottle 374 net.minecraft.item.ItemGlassBottle@40d1e07c
+[13:42:36] [main/TRACE] [FML/]: Add : glass_bottle 374 net.minecraft.item.ItemGlassBottle@40d1e07c
+[13:42:36] [main/TRACE] [FML/]: Add : spider_eye 375 net.minecraft.item.ItemFood@12e90e23
+[13:42:36] [main/TRACE] [FML/]: Add : spider_eye 375 net.minecraft.item.ItemFood@12e90e23
+[13:42:36] [main/TRACE] [FML/]: Add : fermented_spider_eye 376 net.minecraft.item.Item@29f2588
+[13:42:36] [main/TRACE] [FML/]: Add : fermented_spider_eye 376 net.minecraft.item.Item@29f2588
+[13:42:36] [main/TRACE] [FML/]: Add : blaze_powder 377 net.minecraft.item.Item@1e590510
+[13:42:36] [main/TRACE] [FML/]: Add : blaze_powder 377 net.minecraft.item.Item@1e590510
+[13:42:36] [main/TRACE] [FML/]: Add : magma_cream 378 net.minecraft.item.Item@665b6d00
+[13:42:36] [main/TRACE] [FML/]: Add : magma_cream 378 net.minecraft.item.Item@665b6d00
+[13:42:36] [main/TRACE] [FML/]: Add : brewing_stand 379 net.minecraft.item.ItemReed@7c514f7f
+[13:42:36] [main/TRACE] [FML/]: Add : brewing_stand 379 net.minecraft.item.ItemReed@7c514f7f
+[13:42:36] [main/TRACE] [FML/]: Add : cauldron 380 net.minecraft.item.ItemReed@3e3a5a9c
+[13:42:36] [main/TRACE] [FML/]: Add : cauldron 380 net.minecraft.item.ItemReed@3e3a5a9c
+[13:42:36] [main/TRACE] [FML/]: Add : ender_eye 381 net.minecraft.item.ItemEnderEye@396ab2e8
+[13:42:36] [main/TRACE] [FML/]: Add : ender_eye 381 net.minecraft.item.ItemEnderEye@396ab2e8
+[13:42:36] [main/TRACE] [FML/]: Add : speckled_melon 382 net.minecraft.item.Item@c07bacb
+[13:42:36] [main/TRACE] [FML/]: Add : speckled_melon 382 net.minecraft.item.Item@c07bacb
+[13:42:36] [main/TRACE] [FML/]: Add : spawn_egg 383 net.minecraft.item.ItemMonsterPlacer@1441c977
+[13:42:36] [main/TRACE] [FML/]: Add : spawn_egg 383 net.minecraft.item.ItemMonsterPlacer@1441c977
+[13:42:36] [main/TRACE] [FML/]: Add : experience_bottle 384 net.minecraft.item.ItemExpBottle@6fe30af
+[13:42:36] [main/TRACE] [FML/]: Add : experience_bottle 384 net.minecraft.item.ItemExpBottle@6fe30af
+[13:42:36] [main/TRACE] [FML/]: Add : fire_charge 385 net.minecraft.item.ItemFireball@288e85b5
+[13:42:36] [main/TRACE] [FML/]: Add : fire_charge 385 net.minecraft.item.ItemFireball@288e85b5
+[13:42:36] [main/TRACE] [FML/]: Add : writable_book 386 net.minecraft.item.ItemWritableBook@35ad093c
+[13:42:36] [main/TRACE] [FML/]: Add : writable_book 386 net.minecraft.item.ItemWritableBook@35ad093c
+[13:42:36] [main/TRACE] [FML/]: Add : written_book 387 net.minecraft.item.ItemEditableBook@453f0a8
+[13:42:36] [main/TRACE] [FML/]: Add : written_book 387 net.minecraft.item.ItemEditableBook@453f0a8
+[13:42:36] [main/TRACE] [FML/]: Add : emerald 388 net.minecraft.item.Item@22dca7d0
+[13:42:36] [main/TRACE] [FML/]: Add : emerald 388 net.minecraft.item.Item@22dca7d0
+[13:42:36] [main/TRACE] [FML/]: Add : item_frame 389 net.minecraft.item.ItemHangingEntity@448d5a91
+[13:42:36] [main/TRACE] [FML/]: Add : item_frame 389 net.minecraft.item.ItemHangingEntity@448d5a91
+[13:42:36] [main/TRACE] [FML/]: Add : flower_pot 390 net.minecraft.item.ItemReed@1c3508c0
+[13:42:36] [main/TRACE] [FML/]: Add : flower_pot 390 net.minecraft.item.ItemReed@1c3508c0
+[13:42:36] [main/TRACE] [FML/]: Add : carrot 391 net.minecraft.item.ItemSeedFood@6165ab39
+[13:42:36] [main/TRACE] [FML/]: Add : carrot 391 net.minecraft.item.ItemSeedFood@6165ab39
+[13:42:36] [main/TRACE] [FML/]: Add : potato 392 net.minecraft.item.ItemSeedFood@59cc5d23
+[13:42:36] [main/TRACE] [FML/]: Add : potato 392 net.minecraft.item.ItemSeedFood@59cc5d23
+[13:42:36] [main/TRACE] [FML/]: Add : baked_potato 393 net.minecraft.item.ItemFood@77f6d2e3
+[13:42:36] [main/TRACE] [FML/]: Add : baked_potato 393 net.minecraft.item.ItemFood@77f6d2e3
+[13:42:36] [main/TRACE] [FML/]: Add : poisonous_potato 394 net.minecraft.item.ItemFood@6d8f729c
+[13:42:36] [main/TRACE] [FML/]: Add : poisonous_potato 394 net.minecraft.item.ItemFood@6d8f729c
+[13:42:36] [main/TRACE] [FML/]: Add : map 395 net.minecraft.item.ItemEmptyMap@7fe5c339
+[13:42:36] [main/TRACE] [FML/]: Add : map 395 net.minecraft.item.ItemEmptyMap@7fe5c339
+[13:42:36] [main/TRACE] [FML/]: Add : golden_carrot 396 net.minecraft.item.ItemFood@457414c8
+[13:42:36] [main/TRACE] [FML/]: Add : golden_carrot 396 net.minecraft.item.ItemFood@457414c8
+[13:42:36] [main/TRACE] [FML/]: Add : skull 397 net.minecraft.item.ItemSkull@6cceb6dd
+[13:42:36] [main/TRACE] [FML/]: Add : skull 397 net.minecraft.item.ItemSkull@6cceb6dd
+[13:42:36] [main/TRACE] [FML/]: Add : carrot_on_a_stick 398 net.minecraft.item.ItemCarrotOnAStick@847a8f3
+[13:42:36] [main/TRACE] [FML/]: Add : carrot_on_a_stick 398 net.minecraft.item.ItemCarrotOnAStick@847a8f3
+[13:42:36] [main/TRACE] [FML/]: Add : nether_star 399 net.minecraft.item.ItemSimpleFoiled@16381a53
+[13:42:36] [main/TRACE] [FML/]: Add : nether_star 399 net.minecraft.item.ItemSimpleFoiled@16381a53
+[13:42:36] [main/TRACE] [FML/]: Add : pumpkin_pie 400 net.minecraft.item.ItemFood@3d484a8a
+[13:42:36] [main/TRACE] [FML/]: Add : pumpkin_pie 400 net.minecraft.item.ItemFood@3d484a8a
+[13:42:36] [main/TRACE] [FML/]: Add : fireworks 401 net.minecraft.item.ItemFirework@590eb535
+[13:42:36] [main/TRACE] [FML/]: Add : fireworks 401 net.minecraft.item.ItemFirework@590eb535
+[13:42:36] [main/TRACE] [FML/]: Add : firework_charge 402 net.minecraft.item.ItemFireworkCharge@b65091f
+[13:42:36] [main/TRACE] [FML/]: Add : firework_charge 402 net.minecraft.item.ItemFireworkCharge@b65091f
+[13:42:36] [main/TRACE] [FML/]: Add : enchanted_book 403 net.minecraft.item.ItemEnchantedBook@388aaff4
+[13:42:36] [main/TRACE] [FML/]: Add : enchanted_book 403 net.minecraft.item.ItemEnchantedBook@388aaff4
+[13:42:36] [main/TRACE] [FML/]: Add : comparator 404 net.minecraft.item.ItemReed@1925d92c
+[13:42:36] [main/TRACE] [FML/]: Add : comparator 404 net.minecraft.item.ItemReed@1925d92c
+[13:42:36] [main/TRACE] [FML/]: Add : netherbrick 405 net.minecraft.item.Item@3d4e49a
+[13:42:36] [main/TRACE] [FML/]: Add : netherbrick 405 net.minecraft.item.Item@3d4e49a
+[13:42:36] [main/TRACE] [FML/]: Add : quartz 406 net.minecraft.item.Item@dec3c6d
+[13:42:36] [main/TRACE] [FML/]: Add : quartz 406 net.minecraft.item.Item@dec3c6d
+[13:42:36] [main/TRACE] [FML/]: Add : tnt_minecart 407 net.minecraft.item.ItemMinecart@10731f3f
+[13:42:36] [main/TRACE] [FML/]: Add : tnt_minecart 407 net.minecraft.item.ItemMinecart@10731f3f
+[13:42:36] [main/TRACE] [FML/]: Add : hopper_minecart 408 net.minecraft.item.ItemMinecart@76086988
+[13:42:36] [main/TRACE] [FML/]: Add : hopper_minecart 408 net.minecraft.item.ItemMinecart@76086988
+[13:42:36] [main/TRACE] [FML/]: Add : iron_horse_armor 417 net.minecraft.item.Item@22489c42
+[13:42:36] [main/TRACE] [FML/]: Add : iron_horse_armor 417 net.minecraft.item.Item@22489c42
+[13:42:36] [main/TRACE] [FML/]: Add : golden_horse_armor 418 net.minecraft.item.Item@4d0ac2a3
+[13:42:36] [main/TRACE] [FML/]: Add : golden_horse_armor 418 net.minecraft.item.Item@4d0ac2a3
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_horse_armor 419 net.minecraft.item.Item@7d7082d8
+[13:42:36] [main/TRACE] [FML/]: Add : diamond_horse_armor 419 net.minecraft.item.Item@7d7082d8
+[13:42:36] [main/TRACE] [FML/]: Add : lead 420 net.minecraft.item.ItemLead@4ed7581b
+[13:42:36] [main/TRACE] [FML/]: Add : lead 420 net.minecraft.item.ItemLead@4ed7581b
+[13:42:36] [main/TRACE] [FML/]: Add : name_tag 421 net.minecraft.item.ItemNameTag@5a9b774e
+[13:42:36] [main/TRACE] [FML/]: Add : name_tag 421 net.minecraft.item.ItemNameTag@5a9b774e
+[13:42:36] [main/TRACE] [FML/]: Add : command_block_minecart 422 net.minecraft.item.ItemMinecart@14b5d05b
+[13:42:36] [main/TRACE] [FML/]: Add : command_block_minecart 422 net.minecraft.item.ItemMinecart@14b5d05b
+[13:42:36] [main/TRACE] [FML/]: Add : record_13 2256 net.minecraft.item.ItemRecord@56cdd54e
+[13:42:36] [main/TRACE] [FML/]: Add : record_13 2256 net.minecraft.item.ItemRecord@56cdd54e
+[13:42:36] [main/TRACE] [FML/]: Add : record_cat 2257 net.minecraft.item.ItemRecord@636f2067
+[13:42:36] [main/TRACE] [FML/]: Add : record_cat 2257 net.minecraft.item.ItemRecord@636f2067
+[13:42:36] [main/TRACE] [FML/]: Add : record_blocks 2258 net.minecraft.item.ItemRecord@14b87d31
+[13:42:36] [main/TRACE] [FML/]: Add : record_blocks 2258 net.minecraft.item.ItemRecord@14b87d31
+[13:42:36] [main/TRACE] [FML/]: Add : record_chirp 2259 net.minecraft.item.ItemRecord@5c232697
+[13:42:36] [main/TRACE] [FML/]: Add : record_chirp 2259 net.minecraft.item.ItemRecord@5c232697
+[13:42:36] [main/TRACE] [FML/]: Add : record_far 2260 net.minecraft.item.ItemRecord@7bab2c3
+[13:42:36] [main/TRACE] [FML/]: Add : record_far 2260 net.minecraft.item.ItemRecord@7bab2c3
+[13:42:36] [main/TRACE] [FML/]: Add : record_mall 2261 net.minecraft.item.ItemRecord@722e242b
+[13:42:36] [main/TRACE] [FML/]: Add : record_mall 2261 net.minecraft.item.ItemRecord@722e242b
+[13:42:36] [main/TRACE] [FML/]: Add : record_mellohi 2262 net.minecraft.item.ItemRecord@3348bd9d
+[13:42:36] [main/TRACE] [FML/]: Add : record_mellohi 2262 net.minecraft.item.ItemRecord@3348bd9d
+[13:42:36] [main/TRACE] [FML/]: Add : record_stal 2263 net.minecraft.item.ItemRecord@6c98a8b8
+[13:42:36] [main/TRACE] [FML/]: Add : record_stal 2263 net.minecraft.item.ItemRecord@6c98a8b8
+[13:42:36] [main/TRACE] [FML/]: Add : record_strad 2264 net.minecraft.item.ItemRecord@1a6cffbb
+[13:42:36] [main/TRACE] [FML/]: Add : record_strad 2264 net.minecraft.item.ItemRecord@1a6cffbb
+[13:42:36] [main/TRACE] [FML/]: Add : record_ward 2265 net.minecraft.item.ItemRecord@6a095b8a
+[13:42:36] [main/TRACE] [FML/]: Add : record_ward 2265 net.minecraft.item.ItemRecord@6a095b8a
+[13:42:36] [main/TRACE] [FML/]: Add : record_11 2266 net.minecraft.item.ItemRecord@c58f769
+[13:42:36] [main/TRACE] [FML/]: Add : record_11 2266 net.minecraft.item.ItemRecord@c58f769
+[13:42:36] [main/TRACE] [FML/]: Add : record_wait 2267 net.minecraft.item.ItemRecord@24db14d4
+[13:42:36] [main/TRACE] [FML/]: Add : record_wait 2267 net.minecraft.item.ItemRecord@24db14d4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:heavy_weighted_pressure_plate 148 net.minecraft.item.ItemBlock@feeb372
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:heavy_weighted_pressure_plate 148 net.minecraft.item.ItemBlock@feeb372
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cactus 81 net.minecraft.item.ItemBlock@47098a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cactus 81 net.minecraft.item.ItemBlock@47098a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lapis_ore 21 net.minecraft.item.ItemBlock@37c3432a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lapis_ore 21 net.minecraft.item.ItemBlock@37c3432a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_block 152 net.minecraft.item.ItemBlock@746e96ff
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_block 152 net.minecraft.item.ItemBlock@746e96ff
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sandstone_stairs 128 net.minecraft.item.ItemBlock@87b7b11
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sandstone_stairs 128 net.minecraft.item.ItemBlock@87b7b11
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:emerald_block 133 net.minecraft.item.ItemBlock@62cc9d70
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:emerald_block 133 net.minecraft.item.ItemBlock@62cc9d70
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:birch_stairs 135 net.minecraft.item.ItemBlock@677456bc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:birch_stairs 135 net.minecraft.item.ItemBlock@677456bc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:melon_block 103 net.minecraft.item.ItemBlock@6ea85b4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:melon_block 103 net.minecraft.item.ItemBlock@6ea85b4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:iron_block 42 net.minecraft.item.ItemBlock@eefeff8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:iron_block 42 net.minecraft.item.ItemBlock@eefeff8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:acacia_stairs 163 net.minecraft.item.ItemBlock@2a738a71
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:acacia_stairs 163 net.minecraft.item.ItemBlock@2a738a71
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sapling 6 net.minecraft.item.ItemMultiTexture@13ced821
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sapling 6 net.minecraft.item.ItemMultiTexture@13ced821
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone 1 net.minecraft.item.ItemBlock@70cf68af
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone 1 net.minecraft.item.ItemBlock@70cf68af
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:flowing_lava 10 net.minecraft.item.ItemBlock@40e1f305
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:flowing_lava 10 net.minecraft.item.ItemBlock@40e1f305
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:jukebox 84 net.minecraft.item.ItemBlock@3219ee8a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:jukebox 84 net.minecraft.item.ItemBlock@3219ee8a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brick_stairs 108 net.minecraft.item.ItemBlock@447bbfb8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brick_stairs 108 net.minecraft.item.ItemBlock@447bbfb8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:daylight_detector 151 net.minecraft.item.ItemBlock@1867ec28
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:daylight_detector 151 net.minecraft.item.ItemBlock@1867ec28
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:piston 33 net.minecraft.item.ItemPiston@73983ad7
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:piston 33 net.minecraft.item.ItemPiston@73983ad7
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:snow_layer 78 net.minecraft.item.ItemSnow@221a5770
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:snow_layer 78 net.minecraft.item.ItemSnow@221a5770
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:red_mushroom 40 net.minecraft.item.ItemBlock@6f628b8d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:red_mushroom 40 net.minecraft.item.ItemBlock@6f628b8d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:flowing_water 8 net.minecraft.item.ItemBlock@2eb80f1c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:flowing_water 8 net.minecraft.item.ItemBlock@2eb80f1c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:chest 54 net.minecraft.item.ItemBlock@35e80f3a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:chest 54 net.minecraft.item.ItemBlock@35e80f3a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wool 35 net.minecraft.item.ItemCloth@67214626
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wool 35 net.minecraft.item.ItemCloth@67214626
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:coal_ore 16 net.minecraft.item.ItemBlock@39849daf
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:coal_ore 16 net.minecraft.item.ItemBlock@39849daf
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sticky_piston 29 net.minecraft.item.ItemPiston@318c69a9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sticky_piston 29 net.minecraft.item.ItemPiston@318c69a9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:bedrock 7 net.minecraft.item.ItemBlock@796cefa8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:bedrock 7 net.minecraft.item.ItemBlock@796cefa8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:gravel 13 net.minecraft.item.ItemBlock@5eea3cdf
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:gravel 13 net.minecraft.item.ItemBlock@5eea3cdf
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:crafting_table 58 net.minecraft.item.ItemBlock@64428527
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:crafting_table 58 net.minecraft.item.ItemBlock@64428527
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wooden_pressure_plate 72 net.minecraft.item.ItemBlock@4b33f6dd
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wooden_pressure_plate 72 net.minecraft.item.ItemBlock@4b33f6dd
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:netherrack 87 net.minecraft.item.ItemBlock@40944dbd
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:netherrack 87 net.minecraft.item.ItemBlock@40944dbd
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:log2 162 net.minecraft.item.ItemMultiTexture@487bd46a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:log2 162 net.minecraft.item.ItemMultiTexture@487bd46a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:torch 50 net.minecraft.item.ItemBlock@39b6a053
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:torch 50 net.minecraft.item.ItemBlock@39b6a053
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:furnace 61 net.minecraft.item.ItemBlock@4d7c6bf
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:furnace 61 net.minecraft.item.ItemBlock@4d7c6bf
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lapis_block 22 net.minecraft.item.ItemBlock@72392814
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lapis_block 22 net.minecraft.item.ItemBlock@72392814
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_ore 73 net.minecraft.item.ItemBlock@67673a2
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_ore 73 net.minecraft.item.ItemBlock@67673a2
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:spruce_stairs 134 net.minecraft.item.ItemBlock@4aa193fe
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:spruce_stairs 134 net.minecraft.item.ItemBlock@4aa193fe
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_stairs 67 net.minecraft.item.ItemBlock@35fb2ef9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_stairs 67 net.minecraft.item.ItemBlock@35fb2ef9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lever 69 net.minecraft.item.ItemBlock@7dc8f91e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lever 69 net.minecraft.item.ItemBlock@7dc8f91e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:ice 79 net.minecraft.item.ItemBlock@155b6116
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:ice 79 net.minecraft.item.ItemBlock@155b6116
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:end_portal_frame 120 net.minecraft.item.ItemBlock@2242f64e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:end_portal_frame 120 net.minecraft.item.ItemBlock@2242f64e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:double_plant 175 net.minecraft.item.ItemDoublePlant@73e492d8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:double_plant 175 net.minecraft.item.ItemDoublePlant@73e492d8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:carrots 141 net.minecraft.item.ItemBlock@2364de59
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:carrots 141 net.minecraft.item.ItemBlock@2364de59
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:glass 20 net.minecraft.item.ItemBlock@3341b736
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:glass 20 net.minecraft.item.ItemBlock@3341b736
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:noteblock 25 net.minecraft.item.ItemBlock@1f635484
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:noteblock 25 net.minecraft.item.ItemBlock@1f635484
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:fence 85 net.minecraft.item.ItemBlock@3241b635
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:fence 85 net.minecraft.item.ItemBlock@3241b635
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brick_block 45 net.minecraft.item.ItemBlock@78216b59
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brick_block 45 net.minecraft.item.ItemBlock@78216b59
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:tallgrass 31 net.minecraft.item.ItemColored@3fd83cf4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:tallgrass 31 net.minecraft.item.ItemColored@3fd83cf4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:packed_ice 174 net.minecraft.item.ItemBlock@d89d7eb
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:packed_ice 174 net.minecraft.item.ItemBlock@d89d7eb
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:trapped_chest 146 net.minecraft.item.ItemBlock@54be8c3e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:trapped_chest 146 net.minecraft.item.ItemBlock@54be8c3e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:red_mushroom_block 100 net.minecraft.item.ItemBlock@29e965e9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:red_mushroom_block 100 net.minecraft.item.ItemBlock@29e965e9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:nether_brick 112 net.minecraft.item.ItemBlock@1a21b97e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:nether_brick 112 net.minecraft.item.ItemBlock@1a21b97e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:enchanting_table 116 net.minecraft.item.ItemBlock@1c190c99
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:enchanting_table 116 net.minecraft.item.ItemBlock@1c190c99
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stonebrick 98 net.minecraft.item.ItemMultiTexture@308a1f38
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stonebrick 98 net.minecraft.item.ItemMultiTexture@308a1f38
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brown_mushroom_block 99 net.minecraft.item.ItemBlock@3c07ae6d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brown_mushroom_block 99 net.minecraft.item.ItemBlock@3c07ae6d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:beacon 138 net.minecraft.item.ItemBlock@1c4c94e5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:beacon 138 net.minecraft.item.ItemBlock@1c4c94e5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:red_flower 38 net.minecraft.item.ItemMultiTexture@67c354e6
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:red_flower 38 net.minecraft.item.ItemMultiTexture@67c354e6
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:vine 106 net.minecraft.item.ItemColored@48fafd42
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:vine 106 net.minecraft.item.ItemColored@48fafd42
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dropper 158 net.minecraft.item.ItemBlock@56091d7c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dropper 158 net.minecraft.item.ItemBlock@56091d7c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:glass_pane 102 net.minecraft.item.ItemBlock@706ee404
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:glass_pane 102 net.minecraft.item.ItemBlock@706ee404
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:log 17 net.minecraft.item.ItemMultiTexture@3bfc47
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:log 17 net.minecraft.item.ItemMultiTexture@3bfc47
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:fire 51 net.minecraft.item.ItemBlock@622f996f
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:fire 51 net.minecraft.item.ItemBlock@622f996f
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:diamond_ore 56 net.minecraft.item.ItemBlock@230278c5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:diamond_ore 56 net.minecraft.item.ItemBlock@230278c5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:deadbush 32 net.minecraft.item.ItemBlock@7746df77
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:deadbush 32 net.minecraft.item.ItemBlock@7746df77
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:soul_sand 88 net.minecraft.item.ItemBlock@4df93ace
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:soul_sand 88 net.minecraft.item.ItemBlock@4df93ace
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:coal_block 173 net.minecraft.item.ItemBlock@2583d260
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:coal_block 173 net.minecraft.item.ItemBlock@2583d260
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:bookshelf 47 net.minecraft.item.ItemBlock@7168afdd
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:bookshelf 47 net.minecraft.item.ItemBlock@7168afdd
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_button 77 net.minecraft.item.ItemBlock@ff21056
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_button 77 net.minecraft.item.ItemBlock@ff21056
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:gold_block 41 net.minecraft.item.ItemBlock@5d0e8647
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:gold_block 41 net.minecraft.item.ItemBlock@5d0e8647
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_lamp 123 net.minecraft.item.ItemBlock@6491cf0b
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_lamp 123 net.minecraft.item.ItemBlock@6491cf0b
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sand 12 net.minecraft.item.ItemMultiTexture@20b00ec2
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sand 12 net.minecraft.item.ItemMultiTexture@20b00ec2
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:quartz_block 155 net.minecraft.item.ItemMultiTexture@698f352
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:quartz_block 155 net.minecraft.item.ItemMultiTexture@698f352
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:snow 80 net.minecraft.item.ItemBlock@238e8fe0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:snow 80 net.minecraft.item.ItemBlock@238e8fe0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:end_portal 119 net.minecraft.item.ItemBlock@6487cd5c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:end_portal 119 net.minecraft.item.ItemBlock@6487cd5c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:quartz_ore 153 net.minecraft.item.ItemBlock@fbb8694
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:quartz_ore 153 net.minecraft.item.ItemBlock@fbb8694
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stained_hardened_clay 159 net.minecraft.item.ItemCloth@6080669d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stained_hardened_clay 159 net.minecraft.item.ItemCloth@6080669d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:command_block 137 net.minecraft.item.ItemBlock@dd0feea
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:command_block 137 net.minecraft.item.ItemBlock@dd0feea
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:portal 90 net.minecraft.item.ItemBlock@140fbbbc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:portal 90 net.minecraft.item.ItemBlock@140fbbbc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_brick_stairs 109 net.minecraft.item.ItemBlock@14ee3dee
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_brick_stairs 109 net.minecraft.item.ItemBlock@14ee3dee
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:waterlily 111 net.minecraft.item.ItemLilyPad@64811e10
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:waterlily 111 net.minecraft.item.ItemLilyPad@64811e10
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dark_oak_stairs 164 net.minecraft.item.ItemBlock@58dcdffc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dark_oak_stairs 164 net.minecraft.item.ItemBlock@58dcdffc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:oak_stairs 53 net.minecraft.item.ItemBlock@cf546f8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:oak_stairs 53 net.minecraft.item.ItemBlock@cf546f8
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:grass 2 net.minecraft.item.ItemBlock@3b064a6d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:grass 2 net.minecraft.item.ItemBlock@3b064a6d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:fence_gate 107 net.minecraft.item.ItemBlock@1a005861
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:fence_gate 107 net.minecraft.item.ItemBlock@1a005861
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:mycelium 110 net.minecraft.item.ItemBlock@caa559d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:mycelium 110 net.minecraft.item.ItemBlock@caa559d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:obsidian 49 net.minecraft.item.ItemBlock@2dabcea
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:obsidian 49 net.minecraft.item.ItemBlock@2dabcea
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cobblestone 4 net.minecraft.item.ItemBlock@66a8a81c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cobblestone 4 net.minecraft.item.ItemBlock@66a8a81c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:quartz_stairs 156 net.minecraft.item.ItemBlock@4ab4faeb
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:quartz_stairs 156 net.minecraft.item.ItemBlock@4ab4faeb
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:ender_chest 130 net.minecraft.item.ItemBlock@2fc5809e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:ender_chest 130 net.minecraft.item.ItemBlock@2fc5809e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:clay 82 net.minecraft.item.ItemBlock@4f7f1d92
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:clay 82 net.minecraft.item.ItemBlock@4f7f1d92
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:mossy_cobblestone 48 net.minecraft.item.ItemBlock@226e8504
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:mossy_cobblestone 48 net.minecraft.item.ItemBlock@226e8504
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dirt 3 net.minecraft.item.ItemMultiTexture@5dedb45
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dirt 3 net.minecraft.item.ItemMultiTexture@5dedb45
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lit_pumpkin 91 net.minecraft.item.ItemBlock@6a0d9205
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lit_pumpkin 91 net.minecraft.item.ItemBlock@6a0d9205
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:anvil 145 net.minecraft.item.ItemAnvilBlock@15517e5e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:anvil 145 net.minecraft.item.ItemAnvilBlock@15517e5e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lava 11 net.minecraft.item.ItemBlock@193f5841
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lava 11 net.minecraft.item.ItemBlock@193f5841
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lit_furnace 62 net.minecraft.item.ItemBlock@dbb205a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:lit_furnace 62 net.minecraft.item.ItemBlock@dbb205a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:iron_ore 15 net.minecraft.item.ItemBlock@7848fbc0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:iron_ore 15 net.minecraft.item.ItemBlock@7848fbc0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:diamond_block 57 net.minecraft.item.ItemBlock@7f8837f1
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:diamond_block 57 net.minecraft.item.ItemBlock@7f8837f1
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:web 30 net.minecraft.item.ItemBlock@4810f0a0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:web 30 net.minecraft.item.ItemBlock@4810f0a0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:hay_block 170 net.minecraft.item.ItemBlock@5025bd56
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:hay_block 170 net.minecraft.item.ItemBlock@5025bd56
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:jungle_stairs 136 net.minecraft.item.ItemBlock@5db18235
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:jungle_stairs 136 net.minecraft.item.ItemBlock@5db18235
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:nether_brick_stairs 114 net.minecraft.item.ItemBlock@30db95a1
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:nether_brick_stairs 114 net.minecraft.item.ItemBlock@30db95a1
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_pressure_plate 70 net.minecraft.item.ItemBlock@203c9616
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_pressure_plate 70 net.minecraft.item.ItemBlock@203c9616
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wooden_button 143 net.minecraft.item.ItemBlock@69a18ee2
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wooden_button 143 net.minecraft.item.ItemBlock@69a18ee2
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:double_stone_slab 43 net.minecraft.item.ItemSlab@4950b45a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:double_stone_slab 43 net.minecraft.item.ItemSlab@4950b45a
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:gold_ore 14 net.minecraft.item.ItemBlock@5170a650
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:gold_ore 14 net.minecraft.item.ItemBlock@5170a650
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:tnt 46 net.minecraft.item.ItemBlock@3ab6f7f5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:tnt 46 net.minecraft.item.ItemBlock@3ab6f7f5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:hopper 154 net.minecraft.item.ItemBlock@425113f0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:hopper 154 net.minecraft.item.ItemBlock@425113f0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_slab 44 net.minecraft.item.ItemSlab@58f41393
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stone_slab 44 net.minecraft.item.ItemSlab@58f41393
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:potatoes 142 net.minecraft.item.ItemBlock@314585
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:potatoes 142 net.minecraft.item.ItemBlock@314585
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:emerald_ore 129 net.minecraft.item.ItemBlock@22cb1edc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:emerald_ore 129 net.minecraft.item.ItemBlock@22cb1edc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brown_mushroom 39 net.minecraft.item.ItemBlock@45570f5c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:brown_mushroom 39 net.minecraft.item.ItemBlock@45570f5c
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:leaves 18 net.minecraft.item.ItemLeaves@7446a09b
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:leaves 18 net.minecraft.item.ItemLeaves@7446a09b
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:tripwire_hook 131 net.minecraft.item.ItemBlock@48da5bc0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:tripwire_hook 131 net.minecraft.item.ItemBlock@48da5bc0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:yellow_flower 37 net.minecraft.item.ItemMultiTexture@77bdbf9d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:yellow_flower 37 net.minecraft.item.ItemMultiTexture@77bdbf9d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:activator_rail 157 net.minecraft.item.ItemBlock@4a6f19d5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:activator_rail 157 net.minecraft.item.ItemBlock@4a6f19d5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_torch 76 net.minecraft.item.ItemBlock@44091520
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:redstone_torch 76 net.minecraft.item.ItemBlock@44091520
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:double_wooden_slab 125 net.minecraft.item.ItemSlab@304a0ac5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:double_wooden_slab 125 net.minecraft.item.ItemSlab@304a0ac5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:trapdoor 96 net.minecraft.item.ItemBlock@4d092447
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:trapdoor 96 net.minecraft.item.ItemBlock@4d092447
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:leaves2 161 net.minecraft.item.ItemLeaves@132cd8d4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:leaves2 161 net.minecraft.item.ItemLeaves@132cd8d4
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:farmland 60 net.minecraft.item.ItemBlock@654f5021
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:farmland 60 net.minecraft.item.ItemBlock@654f5021
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:water 9 net.minecraft.item.ItemBlock@3a15da7d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:water 9 net.minecraft.item.ItemBlock@3a15da7d
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:golden_rail 27 net.minecraft.item.ItemBlock@70bb6255
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:golden_rail 27 net.minecraft.item.ItemBlock@70bb6255
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:glowstone 89 net.minecraft.item.ItemBlock@1e34f445
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:glowstone 89 net.minecraft.item.ItemBlock@1e34f445
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:carpet 171 net.minecraft.item.ItemCloth@2690ed81
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:carpet 171 net.minecraft.item.ItemCloth@2690ed81
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:nether_brick_fence 113 net.minecraft.item.ItemBlock@74d8c3ee
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:nether_brick_fence 113 net.minecraft.item.ItemBlock@74d8c3ee
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:pumpkin 86 net.minecraft.item.ItemBlock@43277a30
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:pumpkin 86 net.minecraft.item.ItemBlock@43277a30
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:planks 5 net.minecraft.item.ItemMultiTexture@54c707c1
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:planks 5 net.minecraft.item.ItemMultiTexture@54c707c1
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dragon_egg 122 net.minecraft.item.ItemBlock@56ce3b62
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dragon_egg 122 net.minecraft.item.ItemBlock@56ce3b62
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dispenser 23 net.minecraft.item.ItemBlock@7d9ccb73
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:dispenser 23 net.minecraft.item.ItemBlock@7d9ccb73
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sandstone 24 net.minecraft.item.ItemMultiTexture@40f12b72
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sandstone 24 net.minecraft.item.ItemMultiTexture@40f12b72
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:detector_rail 28 net.minecraft.item.ItemBlock@195b6aad
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:detector_rail 28 net.minecraft.item.ItemBlock@195b6aad
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:hardened_clay 172 net.minecraft.item.ItemBlock@40b890dc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:hardened_clay 172 net.minecraft.item.ItemBlock@40b890dc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stained_glass_pane 160 net.minecraft.item.ItemCloth@152e7cb6
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stained_glass_pane 160 net.minecraft.item.ItemCloth@152e7cb6
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sponge 19 net.minecraft.item.ItemBlock@1efd9b97
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:sponge 19 net.minecraft.item.ItemBlock@1efd9b97
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:light_weighted_pressure_plate 147 net.minecraft.item.ItemBlock@1bf1e666
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:light_weighted_pressure_plate 147 net.minecraft.item.ItemBlock@1bf1e666
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cocoa 127 net.minecraft.item.ItemBlock@264d40df
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cocoa 127 net.minecraft.item.ItemBlock@264d40df
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stained_glass 95 net.minecraft.item.ItemCloth@19de041e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:stained_glass 95 net.minecraft.item.ItemCloth@19de041e
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:iron_bars 101 net.minecraft.item.ItemBlock@3ee05ad6
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:iron_bars 101 net.minecraft.item.ItemBlock@3ee05ad6
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:rail 66 net.minecraft.item.ItemBlock@7b6bb7d9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:rail 66 net.minecraft.item.ItemBlock@7b6bb7d9
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:monster_egg 97 net.minecraft.item.ItemMultiTexture@5cf346dc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:monster_egg 97 net.minecraft.item.ItemMultiTexture@5cf346dc
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:mob_spawner 52 net.minecraft.item.ItemBlock@67b14530
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:mob_spawner 52 net.minecraft.item.ItemBlock@67b14530
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wooden_slab 126 net.minecraft.item.ItemSlab@2735877f
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:wooden_slab 126 net.minecraft.item.ItemSlab@2735877f
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cobblestone_wall 139 net.minecraft.item.ItemMultiTexture@2b52b6f5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:cobblestone_wall 139 net.minecraft.item.ItemMultiTexture@2b52b6f5
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:ladder 65 net.minecraft.item.ItemBlock@4369a50b
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:ladder 65 net.minecraft.item.ItemBlock@4369a50b
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:end_stone 121 net.minecraft.item.ItemBlock@4cd297c0
+[13:42:36] [main/TRACE] [FML/]: Add : minecraft:end_stone 121 net.minecraft.item.ItemBlock@4cd297c0
+[13:42:37] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[13:42:37] [Server thread/INFO] [FML/]: MinecraftForge v10.12.0.1049 Initialized
+[13:42:37] [Server thread/INFO] [FML/]: Replaced 141 ore recipies
+[13:42:37] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[13:42:37] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[13:42:37] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related directory at /Users/teen/Desktop/Louis_Modding/bin, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.0.1049/forgeSrc-1.7.2-10.12.0.1049.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.9/116f2aad5b0c68353ebed66cd463517db6522f7e/launchwrapper-1.9.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/4.1/dd6ba5c392d4102458494e29f54f70ac534ec2a2/asm-debug-all-4.1.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.2/6ba65d12cd09d441083262d6f73d2257fec7c663/scala-library-2.10.2.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.10.2/64c8b1380cc53d6850823d6e4e7ae984aa44ef9c/scala-compiler-2.10.2.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/java3d/vecmath/1.3.1/a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d/vecmath-1.3.1.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/42ccaf4761f0dfdfa805c9e340d99a755907e2dd/trove4j-3.0.3.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/lzma/lzma/0.0.1/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/codecjorbis/20101023/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/codecwav/20101023/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/libraryjavasound/20101123/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/librarylwjglopenal/20100824/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.paulscode/soundsystem/20120107/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9e50bd52ffe257a0e2cd8d971688d6ce7d174325/netty-all-4.0.10.Final.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.3/4fb033c2d6eccced08752d8f33e8c3a0a45deb2d/authlib-1.3.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/1dd66e68cccd907880229f9e2de1314bd13ff785/log4j-api-2.0-beta9.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/678861ba1b2e1fccb594bb0ca03114bb05da9695/log4j-core-2.0-beta9.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1-nightly-20131017/148d2981251ad796e50922dabfb9354ec26741dd/lwjgl-2.9.1-nightly-20131017.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1-nightly-20131017/b4570ef98d017fa8f515a202e727dd12f6ef52f3/lwjgl_util-2.9.1-nightly-20131017.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1-nightly-20131017/54241f3f8dac9617ca1ff335ffd3939f849c5017/lwjgl-platform-2.9.1-nightly-20131017-natives-osx.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /Users/teen/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.2/444ff8e89a81697997ed8a98a4642ba283130249/scala-reflect-2.10.2.jar, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Found a minecraft related directory at /Users/teen/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.0.1049/start, examining for mod candidates
+[13:42:37] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[13:42:37] [Server thread/INFO] [FML/]: Searching /Users/teen/Desktop/Louis_Modding/eclipse/mods for mods
+[13:42:37] [Server thread/DEBUG] [FML/]: Examining directory bin for potential mods
+[13:42:37] [Server thread/DEBUG] [FML/]: Found an mcmod.info file in directory bin
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package assets
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package assets.YourModsName
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package assets.YourModsName.lang
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package assets.YourModsName.textures
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package assets.YourModsName.textures.blocks
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package assets.YourModsName.textures.items
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package modding
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package modding.mymod
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial.DMAexample
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial.DMAexample.MyBlocks
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial.DMAexample.MyEntities
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial.DMAexample.MyItems
+[13:42:37] [Server thread/DEBUG] [FML/]: Identified an FMLMod type mod tutorial.DMAexample.YourModsName
+[13:42:37] [Server thread/TRACE] [yourmodsname/]: Parsed dependency info : [] [] []
+[13:42:37] [Server thread/INFO] [yourmodsname/]: Mod yourmodsname is missing the required element 'name'. Substituting yourmodsname
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial.DMAexample.client
+[13:42:37] [Server thread/TRACE] [FML/]: Recursing into package tutorial.DMAexample.render
+[13:42:37] [Server thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.2-10.12.0.1049.jar for potential mods
+[13:42:37] [Server thread/DEBUG] [FML/]: The mod container forgeSrc-1.7.2-10.12.0.1049.jar appears to be missing an mcmod.info file
+[13:42:38] [Server thread/ERROR] [FML/]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file launchwrapper-1.9.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container launchwrapper-1.9.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file asm-debug-all-4.1.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file scala-library-2.10.2.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container scala-library-2.10.2.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file scala-compiler-2.10.2.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container scala-compiler-2.10.2.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file jopt-simple-4.5.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container jopt-simple-4.5.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file vecmath-1.3.1.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container vecmath-1.3.1.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file trove4j-3.0.3.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container trove4j-3.0.3.jar appears to be missing an mcmod.info file
+[13:42:39] [Server thread/DEBUG] [FML/]: Examining file icu4j-core-mojang-51.2.jar for potential mods
+[13:42:39] [Server thread/DEBUG] [FML/]: The mod container icu4j-core-mojang-51.2.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file lzma-0.0.1.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container lzma-0.0.1.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file codecjorbis-20101023.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container codecjorbis-20101023.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file codecwav-20101023.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container codecwav-20101023.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file libraryjavasound-20101123.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file librarylwjglopenal-20100824.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container librarylwjglopenal-20100824.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file soundsystem-20120107.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container soundsystem-20120107.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file netty-all-4.0.10.Final.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container netty-all-4.0.10.Final.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file guava-15.0.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container guava-15.0.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file commons-lang3-3.1.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container commons-lang3-3.1.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file commons-io-2.4.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container commons-io-2.4.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file jinput-2.0.5.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container jinput-2.0.5.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file jutils-1.0.0.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container jutils-1.0.0.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file gson-2.2.4.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container gson-2.2.4.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file authlib-1.3.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container authlib-1.3.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file log4j-api-2.0-beta9.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container log4j-api-2.0-beta9.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file log4j-core-2.0-beta9.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container log4j-core-2.0-beta9.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file lwjgl-2.9.1-nightly-20131017.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container lwjgl-2.9.1-nightly-20131017.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file lwjgl_util-2.9.1-nightly-20131017.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container lwjgl_util-2.9.1-nightly-20131017.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file lwjgl-platform-2.9.1-nightly-20131017-natives-osx.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container lwjgl-platform-2.9.1-nightly-20131017-natives-osx.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file jinput-platform-2.0.5-natives-linux.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container jinput-platform-2.0.5-natives-linux.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file jinput-platform-2.0.5-natives-osx.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container jinput-platform-2.0.5-natives-osx.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file jinput-platform-2.0.5-natives-windows.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container jinput-platform-2.0.5-natives-windows.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining file scala-reflect-2.10.2.jar for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: The mod container scala-reflect-2.10.2.jar appears to be missing an mcmod.info file
+[13:42:40] [Server thread/DEBUG] [FML/]: Examining directory start for potential mods
+[13:42:40] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory start
+[13:42:40] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[13:42:40] [Server thread/TRACE] [FML/]: Received a system property request ''
+[13:42:40] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[13:42:40] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang de_DE in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/de_DE.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang en_US in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/en_US.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang es_ES in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/es_ES.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang fr_FR in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/fr_FR.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang ru_RU in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/ru_RU.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang en_US in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/minecraft/lang/en_US.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang de_DE in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/de_DE.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang en_US in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/en_US.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang es_ES in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/es_ES.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang fr_FR in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/fr_FR.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang ru_RU in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/forge/lang/ru_RU.lang into language system
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation data for lang en_US in zip file forgeSrc-1.7.2-10.12.0.1049.jar at assets/minecraft/lang/en_US.lang into language system
+[13:42:40] [Server thread/DEBUG] [yourmodsname/]: Enabling mod yourmodsname
+[13:42:40] [Server thread/DEBUG] [FML/]: Injecting found translation assets for lang en_US at assets/YourModsName/lang/en_US.lang into language system
+[13:42:40] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[13:42:40] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[13:42:40] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[13:42:40] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[13:42:40] [Server thread/DEBUG] [FML/]: Mod sorting data
+[13:42:40] [Server thread/DEBUG] [FML/]: 	yourmodsname(yourmodsname:1.0): bin ()
+[13:42:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[13:42:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[13:42:40] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[13:42:40] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[13:42:40] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.2.137.1049)
+[13:42:40] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[13:42:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[13:42:40] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[13:42:40] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.12.0.1049)
+[13:42:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[13:42:41] [Server thread/TRACE] [yourmodsname/yourmodsname]: Sending event FMLConstructionEvent to mod yourmodsname
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Testing mod yourmodsname to verify it accepts its own version in a remote connection
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: The mod yourmodsname accepts its own version (1.0)
+[13:42:41] [Server thread/DEBUG] [FML/yourmodsname]: Attempting to inject @SidedProxy classes into yourmodsname
+[13:42:41] [Server thread/TRACE] [yourmodsname/yourmodsname]: Sent event FMLConstructionEvent to mod yourmodsname
+[13:42:41] [Server thread/DEBUG] [FML/]: Mod signature data
+[13:42:41] [Server thread/DEBUG] [FML/]: 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
+[13:42:41] [Server thread/DEBUG] [FML/]: 	FML(Forge Mod Loader:7.2.137.1049): forgeSrc-1.7.2-10.12.0.1049.jar (NO VALID CERTIFICATE FOUND)
+[13:42:41] [Server thread/DEBUG] [FML/]: 	Forge(Minecraft Forge:10.12.0.1049): forgeSrc-1.7.2-10.12.0.1049.jar (NO VALID CERTIFICATE FOUND)
+[13:42:41] [Server thread/DEBUG] [FML/]: 	yourmodsname(yourmodsname:1.0): bin (NO VALID CERTIFICATE FOUND)
+[13:42:41] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[13:42:41] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[13:42:41] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[13:42:41] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[13:42:41] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[13:42:41] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[13:42:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[13:42:41] [Server thread/TRACE] [yourmodsname/yourmodsname]: Sending event FMLPreInitializationEvent to mod yourmodsname
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Add : yourmodsname:MyLauncher 4096 tutorial.DMAexample.MyItems.MyLauncherItem@4db323af
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Add : yourmodsname:MyFood 4097 net.minecraft.item.ItemFood@2bebde03
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Add : yourmodsname:HardOre 165 tutorial.DMAexample.MyBlocks.HardOre@4e48f32a
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Add : yourmodsname:HardOre 165 net.minecraft.item.ItemBlock@1754728d
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Add : yourmodsname:HarderDirt 166 tutorial.DMAexample.MyBlocks.BaseBlock@292c92f2
+[13:42:41] [Server thread/TRACE] [FML/yourmodsname]: Add : yourmodsname:HarderDirt 166 net.minecraft.item.ItemBlock@2d6362fc
+[13:42:41] [Server thread/TRACE] [yourmodsname/yourmodsname]: Sent event FMLPreInitializationEvent to mod yourmodsname
+[13:42:41] [Server thread/DEBUG] [FML/]: Freezing block and item id maps

@@ -1,0 +1,31 @@
+package tutorial.DMAexample.armor;
+
+import tutorial.DMAexample.MyCode;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemArmor;
+import net.minecraft.item.ItemStack;
+import net.minecraft.entity.Entity;
+
+public class SampleChestplate extends ItemArmor {
+	
+	public SampleChestplate(ArmorMaterial material, int chestplateID, int placement) {
+	    super(material, chestplateID, placement);
+	    setCreativeTab(CreativeTabs.tabTools);
+	    
+	    if (placement == 1) {//If armor Piace if the Chestplate
+	        this.setTextureName("yourmodsname:polishedflystone_armor"); 	
+	 
+	    	
+	    }
+		
+	}
+
+	public String getArmorTexture(ItemStack stack, Entity entity, int slot, String type) {
+	   if (stack.getItem() == MyCode.SampleChestplate );
+	return null;
+	      
+}
+	
+}
+

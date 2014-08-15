@@ -1,0 +1,27 @@
+package tutorial.DMAexample.MyItems;
+
+
+
+
+
+public class tituniumIngot extends Item 
+	{
+	        public tituniumIngot() 
+	        {
+	              super();
+	              this.setHasSubtypes(true);
+	      		  this.setCreativeTab(CreativeTabs.tabMaterials);
+	        }
+	        
+	        
+	      
+	        //Load Icons and Textures Properly
+	    	@SideOnly(Side.CLIENT)
+	    	private IIcon[] icons;
+	        @SideOnly(Side.CLIENT) 
+	        public void registerIcons(IIconRegister par1IconRegister)
+	        {
+	            this.itemIcon = par1IconRegister.registerIcon("yourmodsname:" 
+	            + (this.getUnlocalizedName().substring(5)));
+	        }
+	      }

@@ -1,0 +1,16 @@
+tile.hardDirt.name=Hard Dirt
+tile.titaniumBlock.name=Titanium Block
+item.myLauncher.name=Fireball Launcher
+tile.golemCoreBlock.name=Golem Core Block
+tile.GolemCoreBlock.name=Golem Core Block
+tile.titaniumOre.name=Titanium Ore
+tile.flystoneOre.name=Flystone Ore
+item.ingot_titanium.name=Titanium Ingot
+item.fly_stone.name=Flystone
+item.cooked_Egg.name=Cooked Egg
+item.cooked_EggPork.name=Cooked Egg and Porkchop
+item.sword_titanium.name=Titanium Sword
+item.M67.name=M67
+entity.entityTest.name=Steve
+Spawn entity.Test.name=Steve Spawn
+item.FlystonePendant.name=Fly Stone Pendant

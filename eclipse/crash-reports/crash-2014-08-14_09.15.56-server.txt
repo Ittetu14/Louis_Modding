@@ -1,0 +1,48 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 8/14/14 9:15 AM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at net.minecraft.world.chunk.storage.ExtendedBlockStorage.func_150818_a(ExtendedBlockStorage.java:96)
+	at net.minecraft.world.chunk.Chunk.func_150807_a(Chunk.java:665)
+	at net.minecraft.world.World.setBlock(World.java:517)
+	at net.minecraft.world.gen.feature.WorldGenMinable.generate(WorldGenMinable.java:79)
+	at tutorial.DMAexample.MyOreGenerator.addOreSpawn(MyOreGenerator.java:35)
+	at tutorial.DMAexample.MyOreGenerator.generateSurface(MyOreGenerator.java:25)
+	at tutorial.DMAexample.MyOreGenerator.generate(MyOreGenerator.java:18)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.populate(ChunkProviderServer.java:256)
+	at net.minecraft.world.chunk.Chunk.populateChunk(Chunk.java:1162)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:150)
+	at net.minecraft.server.MinecraftServer.initialWorldChunkLoad(MinecraftServer.java:306)
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:79)
+	at net.minecraft.server.integrated.IntegratedServer.startServer(IntegratedServer.java:96)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:739)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Mac OS X (x86_64) version 10.9.3
+	Java Version: 1.6.0_65, Apple Inc.
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Apple Inc.
+	Memory: 992271488 bytes (946 MB) / 1065025536 bytes (1015 MB) up to 1065025536 bytes (1015 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	FML: MCP v9.01-pre FML v7.2.137.1049 Minecraft Forge 10.12.0.1049 4 mods loaded, 4 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	FML{7.2.137.1049} [Forge Mod Loader] (forgeSrc-1.7.2-10.12.0.1049.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	Forge{10.12.0.1049} [Minecraft Forge] (forgeSrc-1.7.2-10.12.0.1049.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	yourmodsname{1.0} [yourmodsname] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 0 / 8; []
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
